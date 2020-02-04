@@ -12,4 +12,8 @@
 ## Blog Posts
 
 - [NLP Series 1](https://towardsdatascience.com/introducing-natural-language-processing-nlp-series-1-aefbb69a20bc?source=---------22------------------)
-
+- [TextBlob](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/?utm_source=Linkedin&utm_medium=social-media&utm_campaign=Beginner-articles
+  )
+- [Text Prediction using Ngrams](https://stackabuse.com/python-for-nlp-developing-an-automatic-text-filler-using-n-grams/
+  )
+- 
