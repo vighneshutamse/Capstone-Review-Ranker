@@ -1,0 +1,812 @@
+Sr.No,Review_Title,Review_Text,Review_Rating,Buyer_Type,Review_Date,Upvote,Downvote,read,Sum_of_Up_Down,Len_before,Num_Sentence,No_QMark,No_ExMark,No_Upper,No_proper,Emoji_Count,h,Len_after,POS
+1,Classy product,"good lui 
+  shone camera lover",5,Certified Buyer,4 months ago,704,88,,792,9,1,0,14,0,5,0,0.89,5,PROPN PROPN SPACE NOUN PROPN NOUN
+2,Must buy!,"5 year young brother phone buy phone 7 birthday gift . give gift packet think brow buy watchpenor didn expect phone 7 . open , find tear eye hug . 
+ 
+  possible flipkart sale co r middle class family afford mobile actual price flipkart make happy . 
+ 
+  thank flipkart",5,Certified Buyer,4 months ago,2100,314,,2414,89,5,0,9,0,1,0,0.87,48,NUM NOUN ADJ NOUN NOUN VERB NOUN NUM NOUN NOUN PUNCT VERB NOUN NOUN VERB PROPN VERB PROPN PROPN VERB NOUN NUM PUNCT VERB PUNCT VERB ADJ NOUN NOUN PUNCT SPACE ADJ ADJ NOUN NOUN ADJ ADJ NOUN NOUN VERB ADJ ADJ NOUN NOUN VERB ADJ PUNCT SPACE VERB PROPN
+3,Excellent,click photo wall painting,5,Certified Buyer,5 months ago,1062,160,,1222,7,1,0,3,0,,0,0.87,4,VERB PROPN NOUN NOUN
+4,Pretty good,expect,4,Certified Buyer,4 months ago,1394,224,,1618,5,1,0,3,0,,1,0.86,1,VERB
+5,Highly recommended,superb product ... like,5,Certified Buyer,"Dec, 2018",400,66,,466,6,1,0,1,0,,0,0.86,4,ADJ NOUN PUNCT SCONJ
+6,Mind-blowing purchase,"shone 
+  love",5,Certified Buyer,4 months ago,152,21,,173,7,1,0,2,0,,0,0.88,2,NOUN SPACE NOUN
+7,Best in the market!,black beauty ... perfect ...,5,Certified Buyer,"Apr, 2018",1970,388,,2358,5,1,0,,0,,0,0.84,5,ADJ NOUN PUNCT ADJ PUNCT
+8,Must buy!,"Works perfectly fine 1.5 year . 
+  great camera .",5,Certified Buyer,"Aug, 2018",904,178,,1082,9,2,0,,0,,0,0.84,9,PROPN ADV ADJ NUM NOUN PUNCT SPACE ADJ NOUN PUNCT
+9,Excellent,love Apple,5,Certified Buyer,"Oct, 2018",395,73,,468,2,1,0,,0,,1,0.84,2,NOUN PROPN
+10,Simply awesome,nice product thank flipkart,5,Certified Buyer,"Nov, 2018",1085,237,,1322,5,1,0,,0,,0,0.82,4,ADJ NOUN VERB ADJ
+11,Fabulous!,good,5,Certified Buyer,"Oct, 2018",208,38,,246,1,1,0,,0,,0,0.85,1,ADJ
+12,Perfect product!,"happy product delivery 
+  North money",5,Certified Buyer,5 months ago,248,49,,297,11,1,0,,0,,0,0.84,5,ADJ NOUN NOUN SPACE ADJ NOUN
+13,Excellent,IPHONE MILLION HEART,5,Certified Buyer,3 months ago,84,13,,97,4,1,0,,4,,0,0.87,3,NOUN NUM PROPN
+14,Great product,great photography,5,Certified Buyer,5 months ago,131,24,,155,2,1,0,,0,,0,0.85,2,ADJ NOUN
+15,Wonderful,excellent camera,5,Certified Buyer,"Feb, 2019",102,18,,120,2,1,0,1,0,,0,0.85,2,ADJ NOUN
+16,Pretty good,"early version iphone great change personal . purchase rose gold phone realise go black colour . camera iphone superior sense . phone sleek light weight slippery . delivery promise . thing note , henceforth phone India product .",4,Certified Buyer,4 months ago,408,97,,505,72,6,0,,0,,0,0.81,38,ADJ NOUN NOUN ADJ NOUN ADJ PUNCT NOUN VERB ADJ NOUN NOUN VERB ADJ NOUN PUNCT PROPN PROPN ADJ NOUN PUNCT NOUN ADJ ADJ NOUN NOUN PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT ADV NOUN PROPN NOUN PUNCT
+17,Awesome,", ... shone awesome expect . add prompt delivery Flipkart great packing . truly satisfied ... 
+ 
+  lightning connection air pad amazing huge upgrade voice quality compare old shone earphone . 
+  con con like tireless Air Rods phone , see performance lightning connection air pad regret .",5,Certified Buyer,"Oct, 2016",168,36,,204,78,5,0,,0,,0,0.82,46,PUNCT PUNCT NOUN ADJ VERB PUNCT VERB ADJ NOUN PROPN ADJ NOUN PUNCT ADV ADJ PUNCT SPACE NOUN NOUN NOUN NOUN ADJ ADJ NOUN NOUN NOUN VERB ADJ NOUN NOUN PUNCT SPACE X X SCONJ NOUN PROPN PROPN NOUN PUNCT VERB NOUN NOUN NOUN NOUN NOUN NOUN PUNCT
+18,Good choice,love phone 7 super quality,4,Certified Buyer,3 months ago,79,14,,93,7,1,0,,0,,0,0.85,5,NOUN NOUN NUM ADJ NOUN
+19,Perfect product!,word ... awesome,5,Certified Buyer,"Oct, 2018",171,38,,209,5,1,0,,0,,0,0.82,3,NOUN PUNCT ADJ
+20,Awesome,Expecticular Product ... phone good .... good handling slim piece ..,5,Certified Buyer,"Nov, 2018",213,51,,264,17,1,0,,0,,0,0.81,11,PROPN NOUN PUNCT NOUN NOUN PUNCT ADJ VERB ADJ NOUN PUNCT
+21,Best smart mobile,"shone 7 legitimate interesting , powerful phone Apple ship . 10 excellent , camera well , performance phenomena . battery longer .",5,Certified Buyer,"May, 2017",623,174,,797,33,3,0,,0,,0,0.78,22,NOUN NUM ADJ ADJ PUNCT ADJ NOUN PROPN NOUN PUNCT NUM NOUN PUNCT NOUN ADV PUNCT NOUN NOUN PUNCT NOUN ADV PUNCT
+22,Value-for-money,satisfied .. product receive day ..,4,Certified Buyer,"Dec, 2018",149,34,,183,7,2,0,,0,,0,0.81,6,ADJ PUNCT NOUN VERB NOUN PUNCT
+23,Fabulous!,awesome phone . delivery late .,5,Certified Buyer,"Oct, 2018",208,51,,259,7,2,0,,0,,0,0.8,6,PROPN NOUN PUNCT NOUN ADV PUNCT
+24,Iphone 7 and Flipkart experience,"receive Phone 7 day launch . 
+  thank Flipkart super super fast delivery excellent packing phone 7 . 
+ 
+  recently switch andro IOS . review base . 
+  Gros 
+  Performance amazing make worth compare phone apart look , light weight etc . 
+  play high end graphic game , phone little bit heat compare andro observe power drainage tool quickly . 
+  play high end graphic game alternatively twitch alternatively didn see law . 
+  game run smooth experience andro phone . 
+ 
+  Sons 
+  Multi- take ease currently struggle . switch andro IOS .",5,Certified Buyer,"Oct, 2016",127,29,READ MORE,156,155,10,0,,0,,0,0.81,87,VERB NOUN NUM NOUN NOUN PUNCT SPACE VERB PROPN ADV ADV ADJ NOUN ADJ VERB NOUN NUM PUNCT SPACE ADV VERB NOUN PROPN PROPN PROPN NOUN PUNCT SPACE PROPN SPACE NOUN ADJ VERB ADJ VERB NOUN ADV NOUN PUNCT ADJ NOUN X PUNCT SPACE VERB ADJ NOUN ADJ NOUN PUNCT NOUN ADJ NOUN NOUN NOUN PROPN VERB NOUN NOUN NOUN ADV PUNCT SPACE VERB ADJ NOUN ADJ NOUN ADV VERB ADV PROPN VERB NOUN PUNCT SPACE NOUN VERB ADJ NOUN NOUN NOUN PUNCT SPACE NOUN SPACE PROPN VERB NOUN ADV VERB PUNCT VERB NOUN PROPN PUNCT
+25,"Sexy got black, really black!","Flipkart delivery service - thank lot , receive earlier promise . receive chocolate gun , feel nice . multiplied joy receive new phone . 
+ 
+  shone . 
+ 
+  packaging - - neat   superior 
+ 
+  phone - feel great . personally choose shone 7 7 size . move shone 5 7 absolutely owner term size , size suit . specification wise - explore . 
+ 
+  hat evidently different - home button number 3 pressure press feel weird . number 1 option yes course - audit jack . receive wired earphone better know lightne compatible earphone . end wired earphone connect slot lightning connection .",5,Certified Buyer,"Oct, 2016",3226,1034,READ MORE,4260,142,13,0,,0,,0,0.76,99,PROPN NOUN NOUN PUNCT NOUN NOUN PUNCT VERB ADJ NOUN PUNCT VERB NOUN NOUN PUNCT VERB ADJ PUNCT ADJ NOUN VERB ADJ NOUN PUNCT SPACE NOUN PUNCT SPACE NOUN PUNCT PUNCT ADJ SPACE ADJ SPACE NOUN PUNCT VERB ADJ PUNCT ADV VERB NOUN NUM NUM NOUN PUNCT VERB NOUN NUM NUM ADV NOUN NOUN NOUN PUNCT NOUN NOUN PUNCT NOUN ADJ PUNCT NOUN PUNCT SPACE NOUN ADV ADJ PUNCT NOUN NOUN NOUN NUM NOUN NOUN VERB ADJ PUNCT NOUN NUM NOUN INTJ NOUN PUNCT NOUN NOUN PUNCT VERB PROPN NOUN ADV VERB PROPN ADJ NOUN PUNCT NOUN PROPN PROPN PROPN NOUN NOUN NOUN PUNCT
+26,Iphone the beast,"phone beast . Flipkart rock deliver time promise . 
+  good performance 
+  highly fast 
+  super camera 
+  good battery 
+  excellent display",5,Certified Buyer,"May, 2017",25,3,,28,25,3,0,,0,,0,0.89,19,NOUN NOUN PUNCT PROPN NOUN VERB NOUN NOUN PUNCT SPACE ADJ NOUN SPACE ADV ADJ SPACE ADJ NOUN SPACE ADJ NOUN SPACE ADJ NOUN
+27,Great experience great phone and priority shipping,"great experience buy shine 7 Flipkart . shipping . package arrive early 2 day despite Shipment rural area . 
+ 
+  Phone 7 awesome . look upgrade new phone . Ought silver Color look simple , elegant , classic , premium , alive .",5,Certified Buyer,"Nov, 2016",58,12,,70,47,6,0,,0,,0,0.83,42,ADJ NOUN VERB PROPN NUM PROPN PUNCT NOUN PUNCT NOUN VERB ADV NUM NOUN SCONJ PROPN ADJ NOUN PUNCT SPACE NOUN NUM ADJ PUNCT VERB VERB ADJ NOUN PUNCT VERB NOUN PROPN VERB ADJ PUNCT ADJ PUNCT ADJ PUNCT NOUN PUNCT ADJ PUNCT
+28,Awesome but don’t buy Matt black,"Gros 
+  Sleek handy , chink heavy metal 
+ 
+  Premium stylish , Watt black look royal . 
+ 
+  Camera stunning , believe , nurture hide photographer extent buy door , pick click . Camera comparable point shoot standalone . 
+ 
+  Battery life sufficient . 
+ 
+  secure reliable . 
+ 
+  Round loud whisp 6 th generation 
+ 
+  Aluminium 7000 series sturdy 
+ 
+  Sons 
+ 
+  3.5 mm , adapt bridge 
+ 
+  personal opinion screen 5 inch , reduce bell . 
+ 
+  Price .. get deal , cheap , thank flipkart 
+ 
+  enjoy shone . budget doesn matter u 
+ 
+ 
+  21.11.2017-colour review 
+ 
+  rise gold mattblack shine 7 , notice Watt black prone scratch fading color . rise gold rock year . 
+ 
+  suggestion buy metallic color Watt . 
+ 
+ 
+  click helpful , u like .",5,Certified Buyer,"Sep, 2017",56,13,READ MORE,69,183,11,0,,0,,0,0.81,117,PROPN SPACE ADJ ADJ PUNCT VERB ADJ NOUN SPACE NOUN ADJ PUNCT PROPN ADJ NOUN ADJ PUNCT SPACE NOUN ADJ PUNCT VERB PUNCT NOUN VERB NOUN NOUN VERB NOUN PUNCT VERB NOUN PUNCT NOUN ADJ NOUN NOUN ADJ PUNCT SPACE NOUN NOUN ADJ PUNCT SPACE VERB ADJ PUNCT SPACE ADJ ADJ VERB NUM NOUN NOUN SPACE NOUN NUM NOUN ADJ SPACE NOUN SPACE NUM NOUN PUNCT VERB NOUN SPACE ADJ NOUN NOUN NUM NOUN PUNCT VERB PROPN PUNCT SPACE NOUN PUNCT VERB NOUN PUNCT ADJ PUNCT VERB PROPN SPACE PROPN NOUN PUNCT NOUN PROPN PROPN PROPN SPACE NUM NOUN SPACE VERB NOUN PROPN VERB NUM PUNCT VERB PROPN ADJ ADJ NOUN VERB NOUN PUNCT VERB NOUN NOUN NOUN PUNCT SPACE NOUN VERB ADJ NOUN PROPN PUNCT SPACE VERB ADJ PUNCT PRON SCONJ PUNCT
+29,Worth every penny,"Awesome Smartphone shone lover .. 
+  get Fig Million Pale .. 
+  Camera Quality Awesome 
+  performance Superb 
+  good display 
+  beautiful looking 
+  battery perform minus point trend sufficient bad .. 
+  love 
+  thank Flipkart ..",5,Certified Buyer,4 months ago,38,7,,45,48,3,0,1,0,,0,0.84,31,PROPN PROPN NOUN NOUN PUNCT SPACE AUX PROPN PROPN PROPN PUNCT SPACE PROPN PROPN PROPN SPACE NOUN PROPN SPACE ADJ NOUN SPACE ADJ ADJ SPACE NOUN VERB CCONJ NOUN NOUN ADJ ADJ PUNCT SPACE NOUN SPACE VERB PROPN PUNCT
+30,Great experience,"phone yesterday upgrade shone c happy choice . shone 7 need introduction review , let talk Flipkart experience 
+ 
+  delivery get deliver 2 day delivery executive take time frame mind make delivery . exchange old phone , wait patiently open phone check leave . phone package genuine document present inside box great experience thank Flipkart little apprehensive buy phone online , experience feel lot confident highly recommend",5,Certified Buyer,"Mar, 2017",1328,487,READ MORE,1815,130,8,0,,0,,0,0.73,66,NOUN NOUN PROPN VERB PROPN ADJ NOUN PUNCT NOUN NUM VERB NOUN NOUN PUNCT VERB VERB PROPN NOUN SPACE NOUN VERB VERB NUM NOUN NOUN NOUN NOUN NOUN NOUN NOUN VERB NOUN PUNCT VERB ADJ NOUN PUNCT VERB ADV ADJ NOUN NOUN NOUN PUNCT NOUN NOUN ADJ NOUN ADJ ADP NOUN ADJ NOUN VERB PROPN ADJ ADJ VERB NOUN NOUN PUNCT NOUN VERB NOUN ADJ ADV NOUN
+31,It was best decision to buy it from Flipkart !,"flipkart delivery amazing 
+  Apple genuine product .",4,Certified Buyer,"Dec, 2017",64,15,,79,8,2,0,,0,,0,0.81,7,PROPN NOUN ADJ SPACE PROPN ADJ NOUN PUNCT
+32,Perfect product!,"good device Ve 
+  Love device like ...",5,Certified Buyer,9 months ago,10,0,,10,20,2,0,,0,,0,1,7,ADJ NOUN PROPN SPACE VERB NOUN SCONJ PUNCT
+33,Wonderful,West phone,4,Certified Buyer,5 months ago,59,14,,73,2,1,0,,0,,0,0.81,2,PROPN NOUN
+34,Worth every penny,phone work nice .. flipkart deliver day,5,Certified Buyer,"Jan, 2017",64,16,,80,10,1,0,,0,,0,0.8,7,NOUN NOUN ADJ PUNCT PROPN PROPN PROPN
+35,Just wow!,"Vice shone , like phone son mac book ....",5,Certified Buyer,"Nov, 2018",43,9,,52,10,1,0,,0,,0,0.83,9,PROPN NOUN PUNCT SCONJ NOUN NOUN PROPN PROPN PUNCT
+36,iPhone@nice phone,vice product perfect phone,5,Certified Buyer,"Dec, 2017",76,20,,96,4,1,0,,0,,0,0.79,4,NOUN NOUN ADJ NOUN
+37,Pretty good,"excellent phone camera nice sterno speaker fantastic give cinematic experience cool retain display . 
+  kindly value money .",4,Certified Buyer,"Nov, 2018",125,38,,163,31,2,0,,0,,0,0.77,18,ADJ NOUN NOUN ADJ NOUN NOUN NOUN VERB ADJ NOUN ADJ NOUN NOUN PUNCT SPACE ADJ NOUN NOUN PUNCT
+38,Great product,Vice product,5,Certified Buyer,"Nov, 2016",60,15,,75,2,1,0,,0,,0,0.8,2,PROPN NOUN
+39,Awesome phone.. Worst delivery Service by Flip,awesome phone .. m love wid phone .. happy .. finally get long wait bad delivery service flipkart .. bad experience,4,Certified Buyer,"Oct, 2016",25,4,,29,27,1,0,,0,,0,0.86,21,PROPN NOUN PUNCT NUM NOUN PROPN NOUN PUNCT ADJ PUNCT ADV AUX ADJ VERB ADJ NOUN NOUN NOUN PUNCT ADJ NOUN
+40,Great product,phone fantastic.after st day use processor fast camera good clarity .. 35000- valuable,5,Certified Buyer,"Nov, 2018",53,13,,66,25,1,0,,0,,0,0.8,13,NOUN PROPN PROPN PROPN VERB NOUN ADJ NOUN ADJ NOUN PUNCT NUM ADJ
+41,Flipkart jindabaad,excellent issue ...... flipkart,5,Certified Buyer,"Apr, 2017",193,65,,258,5,1,0,,0,,0,0.75,4,ADJ NOUN PUNCT PROPN
+42,Simply awesome,Superb,5,Certified Buyer,4 months ago,21,3,,24,1,1,0,,0,,0,0.88,1,PROPN
+43,Brilliant,awesome phone love,5,Certified Buyer,10 months ago,14,1,,15,5,1,0,,0,,0,0.93,3,ADJ NOUN NOUN
+44,Perfect product!,shone awesome,5,Certified Buyer,"Dec, 2018",13,1,,14,3,1,0,,0,,0,0.93,2,NOUN ADJ
+45,iphone 7 gold,good product,5,Certified Buyer,"Mar, 2017",180,62,,242,4,1,0,,0,,0,0.74,2,ADJ NOUN
+46,Highly recommended,100 % genuine product .. fully satisfied flipkart service .. gun ..,5,Certified Buyer,"Mar, 2017",168,58,,226,12,1,0,,0,,0,0.74,12,NUM NOUN ADJ NOUN PUNCT ADV ADJ PROPN NOUN PUNCT NOUN PUNCT
+47,Brilliant,excellent product apple,5,Certified Buyer,9 months ago,27,5,,32,4,1,0,,0,,0,0.84,3,ADJ NOUN NOUN
+48,Best in the market!,good product thank Flipkart,5,Certified Buyer,5 months ago,26,5,,31,5,1,0,,0,,0,0.84,4,ADJ NOUN VERB PROPN
+49,Defect Product selling on the Mask of Low cost Offers,"bring Product Speaker Functionality . ask Replacement Flipkart reject physical damage . 
+ 
+  speaker major Shone Didn consider damage 
+  will not buy Flipkart . 
+ 
+  thank .",1,Certified Buyer,"Dec, 2017",52,14,,66,51,4,1,,0,,0,0.79,25,VERB PROPN PROPN PROPN PUNCT VERB PROPN PROPN VERB ADJ NOUN PUNCT SPACE NOUN ADJ PROPN PROPN VERB NOUN SPACE VERB PART VERB PROPN PUNCT SPACE VERB PUNCT
+50,Moderate,phone awesome .. case problem device u need return replace Flipkart ready deal instead r suggest service center thing ... suggest u buy online webster like Amazon u easily return .. .. hope help,2,Certified Buyer,"Oct, 2017",13,1,,14,67,1,0,,0,,0,0.93,34,NOUN PROPN PUNCT NOUN NOUN NOUN PRON VERB NOUN VERB PROPN ADJ NOUN ADV NOUN VERB NOUN NOUN NOUN PUNCT VERB PRON VERB ADJ NOUN SCONJ PROPN PROPN ADV VERB PUNCT PUNCT VERB NOUN
+51,Terrific purchase,"order phone December get delivery December afternoon i.e. 2 day expect delivery . packing good product proper condition . find related accesorie mention specification . 
+ 
+  phone 
+  Met black colour awesome Apple properly visible colour . phone scratch prone better cover time . Camera usual awesome . shone handy weighted . Android user find little bit difficult use apple learn slowly . 
+  overall ... phone phone",5,Certified Buyer,"Dec, 2016",763,340,READ MORE,1103,129,10,0,,0,,0,0.69,65,NOUN NOUN PROPN VERB NOUN PROPN NOUN X NUM NOUN VERB NOUN PUNCT VERB ADJ NOUN ADJ NOUN PUNCT VERB ADJ PROPN PROPN NOUN PUNCT SPACE NOUN SPACE PROPN ADJ NOUN ADJ PROPN ADV ADJ NOUN PUNCT NOUN NOUN ADJ ADJ NOUN NOUN PUNCT NOUN ADJ NOUN PUNCT NOUN ADJ VERB PUNCT PROPN NOUN VERB ADJ NOUN ADJ NOUN NOUN VERB ADV PUNCT SPACE ADV PUNCT NOUN NOUN
+52,Pretty good,"good phone 7 rise gold good camera , good display , good quality , good product",4,Certified Buyer,"Nov, 2018",39,11,,50,14,1,0,,0,,0,0.78,16,ADJ NOUN NUM VERB NOUN ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN
+53,Wonderful,", big thank Flipkart Apple India make great product available online amazing deal . buy Fig Million Days sale . product absolutely genuine . Flipkart delivery system well . get phone house day promise . far good product . thank Flipkart . 
+ 
+ 
+  write year product , absolutely issue phone . look assurance authenticity product buy , genuine come doubt well deal office sale happen Flipkart .",5,Certified Buyer,"Oct, 2018",91,31,READ MORE,122,134,10,0,,0,,2,0.75,66,PUNCT ADJ VERB PROPN PROPN PROPN VERB ADJ NOUN ADJ ADJ ADJ NOUN PUNCT VERB PROPN PROPN PROPN NOUN PUNCT NOUN ADV ADJ PUNCT ADJ NOUN NOUN ADV PUNCT AUX PROPN PROPN NOUN NOUN PUNCT ADV ADJ NOUN PUNCT VERB PROPN PUNCT SPACE VERB NOUN NOUN PUNCT ADV VERB NOUN PUNCT VERB NOUN NOUN NOUN VERB PUNCT ADJ VERB NOUN ADV VERB NOUN NOUN VERB PROPN PUNCT
+54,Simply awesome,good Camera .,5,Certified Buyer,4 months ago,42,12,,54,5,1,0,,0,,0,0.78,3,ADJ PROPN PUNCT
+55,Device issue,face issue device unable initiate return replace,1,Certified Buyer,"May, 2017",29,7,,36,16,1,0,,0,,0,0.81,7,NOUN NOUN NOUN ADJ NOUN NOUN NOUN
+56,Good quality product,"shone 7 good choice people want use shone budget . 
+  shone 7 good product apple . 
+  4.7 inch display big expect . Touch different andro well andro . 
+  big display perfect . 
+  have slim body , speaker loud battery 1960 day heavy usage . 
+  talk performance , shone 7 line . 
+  A10 fusion chip well andro 8 chip . talk Camera , dear camera 12mp give amazing picture Camera 7MP give average photo detail moderate consider bad . 
+  good good light bad low light . sure self bright day 
+  IOS version 10 nice user interface update timely update . 
+  like name like Tube , Fortnite , Duty phone 1960mah battery . 
+  hope like review",4,Certified Buyer,2 months ago,12,1,READ MORE,13,205,13,0,,0,,0,0.92,114,NOUN NUM ADJ NOUN NOUN VERB NOUN NOUN NOUN PUNCT SPACE NOUN NUM ADJ NOUN NOUN PUNCT SPACE NUM NOUN NOUN ADJ NOUN PUNCT VERB ADJ NOUN ADV PROPN PUNCT SPACE ADJ NOUN ADJ PUNCT SPACE AUX ADJ NOUN PUNCT PROPN PROPN NOUN NUM NOUN ADJ NOUN PUNCT SPACE NOUN NOUN PUNCT VERB NUM NOUN PUNCT SPACE NOUN NOUN NOUN ADV VERB NUM NOUN PUNCT PROPN PROPN PUNCT ADJ NOUN NOUN VERB ADJ NOUN PROPN PROPN VERB ADJ NOUN NOUN ADJ NOUN ADJ PUNCT SPACE ADJ ADJ NOUN ADJ ADJ NOUN PUNCT ADJ NOUN ADJ NOUN SPACE PROPN NOUN NUM ADJ NOUN NOUN NOUN ADJ NOUN PUNCT SPACE SCONJ NOUN SCONJ PROPN PUNCT PROPN PUNCT PROPN NOUN NUM NOUN PUNCT SPACE NOUN SCONJ NOUN
+57,Worth every penny,phone 7 good,5,Certified Buyer,3 months ago,11,1,,12,6,1,0,,0,,0,0.92,3,NOUN NUM NOUN
+58,Super!,simply outstanding   compare,5,Certified Buyer,"Jan, 2018",12,1,,13,5,1,0,,0,,0,0.92,3,ADV ADJ SPACE NOUN
+60,Fabulous!,good work,5,Certified Buyer,4 months ago,17,3,,20,2,1,0,,0,,0,0.85,2,ADJ NOUN
+61,Fabulous!,wood,5,Certified Buyer,"Feb, 2019",36,10,,46,2,1,0,,0,,0,0.78,1,NOUN
+62,Must go for it,amazing product red beauty,5,Certified Buyer,"Jul, 2017",60,21,,81,4,1,0,,0,,0,0.74,4,ADJ NOUN ADJ NOUN
+63,Pretty good,good,4,Certified Buyer,"Oct, 2016",288,138,,426,1,1,0,,0,,0,0.68,1,ADJ
+64,Worst Service experience till date.,"order phone 7 get september . work 3 day stop work unexpectedly . turn . Apple support ask return return option available site . want replace want refund . 
+ 
+ 
+  Apple ask refund Flipkart Flipkart give return option single day replacement 
+ 
+  buy Flipkart suggest gun .",1,Certified Buyer,"Oct, 2017",102,43,,145,91,6,0,,0,,0,0.7,45,NOUN NOUN NUM AUX PROPN PUNCT NOUN NUM NOUN VERB NOUN ADV PUNCT VERB PUNCT NOUN NOUN VERB NOUN NOUN NOUN ADJ NOUN PUNCT VERB NOUN VERB NOUN PUNCT SPACE PROPN VERB NOUN PROPN PROPN VERB NOUN NOUN ADJ NOUN NOUN SPACE VERB PROPN VERB NOUN PUNCT
+65,Nice,good image quality battery proper work,3,Certified Buyer,2 months ago,11,1,,12,9,1,0,,0,,0,0.92,6,ADJ PROPN NOUN NOUN ADJ NOUN
+66,Wonderful,wonderful product,5,Certified Buyer,"Sep, 2017",11,1,,12,2,1,0,,0,,0,0.92,2,ADJ NOUN
+67,Not recommended at all,Fraud flipkhart product quality bad,1,Certified Buyer,"Sep, 2017",20,6,,26,5,1,0,,0,,0,0.77,5,PROPN ADJ NOUN NOUN ADJ
+68,Classy product,"legendary phone .. 
+  comparison phone 
+  get 24999 big billion day .. 
+  fill happy ..",5,Certified Buyer,4 months ago,13,2,,15,25,1,0,,0,,0,0.87,14,ADJ NOUN PUNCT SPACE NOUN NOUN SPACE AUX NUM ADJ NUM NOUN PUNCT SPACE VERB ADJ PUNCT
+69,Plz don't buy,bad product .. flipkart sell refurbish apple product .. not buy apple product flipkart,1,Certified Buyer,"Sep, 2017",46,16,,62,15,1,0,,0,,0,0.74,14,ADJ NOUN PUNCT PROPN VERB ADJ PROPN NOUN PUNCT PART VERB NOUN NOUN NOUN
+70,Makes a Compelling Upgrade from the iPhone 6,"write review upbraid shone 6 . 
+ 
+  increase speed camera great Touch feel little incomplete convenient nonetheless . design 6 , black make stand . stunning finish matter black . 
+ 
+  update review usage .",5,Certified Buyer,"Oct, 2016",1935,1116,,3051,54,6,0,,0,,0,0.63,33,VERB PROPN PROPN NOUN NUM PUNCT SPACE NOUN NOUN NOUN ADJ PROPN VERB ADJ ADJ ADJ ADV PUNCT NOUN NUM PUNCT ADJ NOUN NOUN PUNCT ADJ PROPN NOUN ADJ PUNCT SPACE NOUN PROPN NOUN PUNCT
+71,Perfect product!,"important NOTICE 
+  buy apple device online specifically phone 99 % original phone .. find good deal ensure number 
+  secondly , probably get duplicate accessory increase increase discount .. verify 
+ 
+  rest phone superb especially shift time Android Windows 
+  Fingerprint Display attract",5,Certified Buyer,"Oct, 2018",100,44,,144,73,1,0,,0,,0,0.69,40,ADJ PROPN SPACE VERB NOUN NOUN ADV ADV NOUN NUM NOUN ADJ NOUN PUNCT VERB ADJ NOUN NOUN NOUN SPACE ADV PUNCT ADV AUX ADJ NOUN NOUN NOUN NOUN PUNCT VERB SPACE NOUN NOUN NOUN ADV NOUN NOUN PROPN PROPN SPACE PROPN PROPN NOUN
+72,Flipkart Rocks!!!!!!!!!!!!!!!,"buy awaited phone year flipkart amazing . 
+  thankful flipkart understand customer harness . 
+  Flipkart deliver product 71016 7.10 pm apple conduct india launch . 
+  kind commitment flipkart customer highly appreciable . 
+  Flipkart word genuine product . 
+ 
+  Phone 7 look awesome phone grm camera . altogether new home button fast previous phone . 
+  build quality premium black colour add . 
+  sound quality good . battery satisfactory . 
+  highly recommend . 
+  FLIPKART .",5,Certified Buyer,"Oct, 2016",1132,647,READ MORE,1779,111,12,0,,0,,0,0.64,71,VERB VERB NOUN NOUN PROPN ADJ PUNCT SPACE ADJ NOUN VERB NOUN NOUN PUNCT SPACE PROPN VERB NOUN NUM NUM NOUN NOUN VERB PROPN PROPN PUNCT SPACE ADJ NOUN NOUN NOUN ADV ADJ PUNCT SPACE ADJ NOUN ADJ NOUN PUNCT SPACE NOUN NUM VERB ADJ NOUN PROPN PROPN PUNCT ADV ADJ NOUN NOUN ADJ ADJ NOUN PUNCT SPACE VERB NOUN ADJ ADJ NOUN VERB PUNCT SPACE ADJ NOUN ADJ PUNCT NOUN PROPN PUNCT SPACE ADV VERB PUNCT SPACE PROPN PUNCT
+73,Faulty phone,month pass start display go dead .. expect flipkart offer low quality phone ..,1,Certified Buyer,"Jun, 2017",60,24,,84,28,1,0,,0,,0,0.71,14,NOUN PROPN NOUN NOUN VERB ADJ PUNCT VERB PROPN VERB ADJ NOUN NOUN PUNCT
+77,Classy product,delivery expect time . product 100 % genius . fourth phone flipkart .,5,Certified Buyer,"Dec, 2018",35,12,,47,16,3,0,,0,,0,0.74,13,NOUN VERB NOUN PUNCT NOUN NUM NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT
+78,Amazing Little phone,"get phone deliver supercomnet 4 day Bangalore love phone . upgrade 7 notice considerable upgrade . 
+
+ 1 . tactic engine base soft home button feedback response quick happy 3.5 mm audit jack fit engine . 
+
+ 2 . fast night photography cleared whisper , thank 1.of rear camera upgrade 2.of camera . 
+
+ 3 . audit driver well audit quality clear . 
+
+ 4 . dual speaker sound output loud well . 
+
+ 5 . big fan jet black color get . 
+
+ 6 . touch screen responsive . 
+
+ battery improve half approve . 
+
+ love new monster speck undermine power product 10 design opium fast performance speck build . ram shone 7 turn faster 4 chinese andro phone like novo optimisation . 
+
+ similarly 12 1.of camera responsive call camp moon light camera phone . 
+
+ recommend hardware responsiveness phone . 
+
+ happy shone customer 7 yes .",5,Certified Buyer,"Feb, 2017",116,55,READ MORE,171,274,20,0,,0,,0,0.68,140,AUX NOUN VERB NOUN NUM NOUN PROPN NOUN NOUN PUNCT VERB NUM NOUN ADJ NOUN PUNCT SPACE NUM PUNCT ADJ NOUN NOUN ADJ NOUN NOUN NOUN NOUN PROPN ADJ NUM PROPN NOUN PROPN PROPN PROPN PUNCT SPACE NUM PUNCT ADJ NOUN NOUN VERB PROPN PUNCT VERB NUM ADJ NOUN VERB PROPN NOUN PUNCT SPACE PROPN PUNCT PROPN NOUN INTJ NOUN NOUN ADJ PUNCT SPACE NUM PUNCT ADJ NOUN NOUN NOUN ADV ADV PUNCT SPACE NUM PUNCT ADJ NOUN NOUN ADJ NOUN VERB PUNCT SPACE NUM PUNCT NOUN NOUN ADJ PUNCT SPACE NOUN VERB NOUN VERB PUNCT SPACE VERB ADJ NOUN NOUN PROPN NOUN NOUN NUM NOUN NOUN ADJ NOUN NOUN NOUN PUNCT VERB VERB NUM VERB ADV NUM ADJ NOUN NOUN SCONJ PROPN NOUN PUNCT SPACE ADV NUM NUM NOUN ADJ NOUN PROPN PROPN ADJ NOUN NOUN PUNCT SPACE PROPN NOUN NOUN NOUN PUNCT SPACE PROPN PROPN NOUN NUM INTJ PUNCT
+79,Iphone 7,friend different phone phone 7 . purchase phone 7 today find well . worth . use buy camera quality .,5,Certified Buyer,"Jan, 2017",165,84,,249,33,4,0,,0,,0,0.66,20,NOUN ADJ NOUN NOUN NUM PUNCT NOUN NOUN NUM NOUN VERB ADV PUNCT ADJ PUNCT NOUN NOUN NOUN NOUN PUNCT
+80,Did not meet expectations,battery low flipkart purchase deny return product,1,Certified Buyer,"Mar, 2018",12,2,,14,17,1,0,,0,,0,0.86,7,NOUN ADJ NOUN NOUN NOUN NOUN NOUN
+81,Nice phone,"vice phone have similar feature compare phone , prick worth buying . 
+ 
+  Tireless earbud provide phone . 
+ 
+  like touch , work speed   camera update .",4,Certified Buyer,"Jan, 2017",76,34,,110,35,3,0,,0,,0,0.69,25,NOUN NOUN AUX ADJ NOUN VERB NOUN PUNCT VERB ADJ NOUN PUNCT SPACE NOUN NOUN VERB NOUN PUNCT SPACE SCONJ NOUN PUNCT NOUN NOUN SPACE NOUN NOUN PUNCT
+82,Awesome,"WOW effect ..... time phone feel d change bet andro ..... 
+  exceptionally brilliant .... flipkart give good deal delivery d expect date .... jug d thing linger d beast insure .....",5,Certified Buyer,"May, 2017",308,174,,482,40,1,0,,0,,0,0.64,31,PROPN NOUN PUNCT NOUN NOUN VERB ADJ NOUN NOUN NOUN PUNCT SPACE ADV ADJ PUNCT NOUN VERB ADJ NOUN NOUN NOUN VERB NOUN PUNCT NOUN PROPN NOUN NOUN ADJ NOUN VERB PUNCT
+83,Great product,solid performer apple stable . unpacking special flipkart preordere one . not want elaborate ruin surprise . phone perform effortlessly . issue far . grate early shone quick simple . battery life well early phone new home button beautifully engineer provide enhanced user experience . definitely recommend phone,5,Certified Buyer,"Oct, 2016",86,41,,127,78,8,0,,0,,0,0.68,48,ADJ NOUN NOUN ADJ PUNCT VERB ADJ NOUN VERB NUM PUNCT PART VERB ADJ NOUN NOUN PUNCT NOUN VERB ADV PUNCT NOUN ADV PUNCT NOUN ADV NOUN ADJ ADJ PUNCT NOUN NOUN INTJ ADJ NOUN ADJ NOUN NOUN ADV NOUN VERB VERB NOUN NOUN PUNCT ADV VERB NOUN
+84,NYC experience,good delivery speed Flipkart new shone awesome .,5,Certified Buyer,"Oct, 2016",37,14,,51,11,1,0,,0,,0,0.73,8,ADJ NOUN NOUN PROPN ADJ NOUN ADJ PUNCT
+85,Utterly Disappointed,"phone display work 5 day flipkaft didn support way apple store , 10 day replacement warranty ...",1,Certified Buyer,"Feb, 2018",25,8,,33,28,1,0,,0,,0,0.76,17,NOUN NOUN NOUN NUM NOUN PROPN PROPN PROPN PROPN PROPN NOUN PUNCT NUM NOUN NOUN NOUN PUNCT
+86,Faulty Product Delivered,finger button work product . Unhappy,2,Certified Buyer,"Mar, 2017",71,34,,105,9,2,0,,0,,0,0.68,6,NOUN NOUN NOUN NOUN PUNCT PROPN
+87,Iphone 7 Amazing experience,phone day . contend experience service provide flipkart product delivery . thank give fearless experience .,5,Certified Buyer,"Nov, 2016",32,12,,44,29,3,0,,0,,0,0.73,16,PROPN PROPN PUNCT VERB NOUN NOUN VERB NOUN NOUN NOUN PUNCT VERB VERB ADJ NOUN PUNCT
+88,Hated it!,receive Courier flipkart open . phone start completely rear camera flash light work . center service center repair go km phone service center new phone send Banglore onwards replace camera not buy phone flipkart,1,Certified Buyer,"Dec, 2018",21,5,,26,62,3,0,,0,,0,0.81,34,VERB PROPN NOUN ADJ PUNCT NOUN NOUN ADV ADJ NOUN NOUN NOUN NOUN PUNCT PROPN PROPN PROPN NOUN VERB PROPN NOUN NOUN NOUN ADJ NOUN VERB PROPN ADV VERB NOUN PART VERB NOUN NOUN
+89,Classy product,awesome,5,Certified Buyer,10 months ago,27,9,,36,6,1,0,,0,,0,0.75,1,PROPN
+90,Terrific purchase,,5,Certified Buyer,4 months ago,12,2,,14,1,1,0,,0,,0,0.86,0,
+91,Good choice,awesome,4,Certified Buyer,"Nov, 2016",11,2,,13,2,1,0,,0,,0,0.85,1,PROPN
+92,Super!,2 month phone 7 .. phone superb .. feel grm phone 7 . camera quality . processor . delivery good perfect packing .,5,Certified Buyer,"Feb, 2017",44,19,,63,34,4,0,,0,,0,0.7,23,NUM NOUN NOUN NUM PUNCT NOUN NOUN PUNCT VERB PROPN NOUN NUM PUNCT NOUN NOUN PUNCT NOUN PUNCT NOUN ADJ ADJ NOUN PUNCT
+93,Pretty good,nice phone get 33000 sale downside screen resolution 720p sharp price point accept,4,Certified Buyer,"Oct, 2018",34,13,,47,29,1,0,,0,,0,0.72,13,ADJ NOUN VERB NUM NOUN NOUN NOUN NOUN NUM ADJ NOUN NOUN NOUN
+94,Good!!,will not worry 100 % original,5,Certified Buyer,"May, 2017",34,14,,48,7,1,0,,0,,0,0.71,6,VERB PART VERB NUM NOUN ADJ
+95,Great product,nice phone . old Apple user apple quality come band . good happy thank filipkart,5,Certified Buyer,3 months ago,24,8,,32,23,3,0,,0,,0,0.75,15,ADJ NOUN PUNCT ADJ PROPN NOUN NOUN NOUN VERB NOUN PUNCT PROPN PROPN VERB PROPN
+96,Excellent,buy Apple badge . feel nice hand . overall nice experience apple .,5,Certified Buyer,"Oct, 2018",23,8,,31,17,3,0,,0,,0,0.74,13,VERB PROPN NOUN PUNCT VERB ADJ NOUN PUNCT ADJ ADJ NOUN NOUN PUNCT
+97,"It is awesome! However, Airtel is not enabling 4G","awesome , Hittel enable",5,Certified Buyer,"Dec, 2016",32,13,,45,9,2,0,,0,,0,0.71,4,ADV PUNCT PROPN NOUN
+101,The volume control button not working.,volume control button work .,1,Certified Buyer,"Oct, 2016",120,70,,190,7,1,0,,0,,0,0.63,5,NOUN NOUN NOUN NOUN PUNCT
+102,Apple countinues to outperform with its new masterpiece,"shone 3gs generation . upgrade iphone year . People costly , honest justify   single penny spend . craftsman masterpiece . give clot feature flagship phone segment market , honestly think use feature real time usage . shone make regular task easy   simple primary focus user experience simple   useful possible . fluid   fast compare flagship phone available market . software   hardware work fearlessly user experience clot easy   faster . single core score outperform late flagship Google , samson   plus . 
+
+ think upgrade worth mainly reason - 
+
+ 1 Camera lover love new 12 camera 1.8 aperture shone support low light photography   optical image stabilization include shone 7 . face camera 7 camera . - lead true tone flash . picture realistic   clear . good market right . 
+ 2 shone finally IP67 terrified - dust water resistant 
+ 3 memory - available 32128256 price previously 1664128 GB respectively . 
+ 4 New A10 fusion chip extremely fast   graphic output incredible like game console . 
+ 5 Battery increase 1715 1960 give 2 battery life . phone 1 entire day heavy usage . 
+ 6 shone 7 - core processor 2 GB RAM   shone plus 3 gb RAM . 
+ 7 Sterno speaker amazing good sound quality output . 
+
+ introduction new colour shone rage give reason buy . personal favourite matter black Met black look appealing matter black , matter black prone scratch   figure print Met Black . 
+
+ pre - order shone 7 time online site   Flipkart real amazing . deliver shone day release India people stand line outside store . 
+ special give customer marbury   shoot customer expression undo iphone . 
+ thank flipkart gesture . feel special customer . look forward buy electronic genuine product .",5,Certified Buyer,"Oct, 2016",50,25,READ MORE,75,470,27,0,,0,,0,0.67,277,PROPN ADJ NOUN PUNCT PROPN PROPN NOUN PUNCT NOUN ADJ PUNCT ADJ NOUN SPACE ADJ NOUN NOUN PUNCT PROPN PROPN PUNCT VERB NOUN NOUN NOUN NOUN NOUN NOUN PUNCT ADV VERB NOUN NOUN ADJ NOUN NOUN PUNCT NOUN VERB ADJ NOUN ADV SPACE ADJ ADJ NOUN NOUN NOUN ADJ SPACE ADJ ADJ PUNCT NOUN SPACE ADJ VERB NOUN NOUN ADJ NOUN PUNCT NOUN SPACE NOUN NOUN ADV VERB NOUN NOUN ADV SPACE ADV PUNCT ADJ NOUN NOUN ADP ADJ NOUN PROPN PUNCT PROPN SPACE CCONJ PUNCT SPACE VERB PROPN ADJ ADV NOUN PUNCT SPACE NUM PROPN NOUN VERB ADJ NUM NOUN NUM NOUN NOUN NOUN ADJ ADJ NOUN SPACE ADJ NOUN NOUN VERB NOUN NUM PUNCT NOUN NOUN NUM NOUN PUNCT PUNCT VERB ADJ NOUN NOUN PUNCT NOUN ADJ SPACE ADJ PUNCT ADJ NOUN ADV PUNCT SPACE NUM NOUN ADV PROPN ADJ PUNCT NOUN NOUN ADJ SPACE NUM NOUN PUNCT ADJ NUM NOUN ADV NUM PROPN ADV PUNCT SPACE NUM PROPN PROPN NOUN NOUN ADV ADV SPACE ADJ NOUN ADJ SCONJ NOUN NOUN PUNCT SPACE NUM PROPN NOUN NUM NUM VERB NUM NOUN NOUN PUNCT NOUN NUM ADJ NOUN ADJ NOUN PUNCT SPACE NUM VERB NUM PUNCT NOUN NOUN NUM PROPN PROPN SPACE NOUN CCONJ NUM PROPN PROPN PUNCT SPACE NUM PROPN NOUN ADJ ADJ ADJ NOUN NOUN PUNCT SPACE NOUN ADJ NOUN NOUN NOUN VERB NOUN NOUN PUNCT ADJ ADJ NOUN ADJ PROPN ADJ NOUN VERB NOUN ADJ PUNCT NOUN ADJ ADJ NOUN SPACE NOUN NOUN PROPN PROPN PUNCT SPACE ADJ NOUN NOUN NOUN NUM NOUN ADJ NOUN SPACE PROPN ADV ADJ PUNCT VERB VERB NOUN VERB PROPN NOUN VERB NOUN ADP NOUN PUNCT SPACE ADJ NOUN NOUN NOUN SPACE NOUN NOUN NOUN NOUN PROPN PUNCT SPACE VERB PROPN NOUN PUNCT VERB ADJ NOUN PUNCT VERB ADV VERB ADJ ADJ NOUN PUNCT
+103,Iphone is the best,buy black 256 excellent phone ... mind investment 3 year price worry free 3 year . Shone Build quality excellent .,5,Certified Buyer,"Oct, 2016",48,24,,72,41,2,0,,0,,0,0.67,21,VERB ADJ NUM ADJ NOUN PUNCT NOUN NOUN NUM NOUN NOUN NOUN ADJ NUM NOUN PUNCT NOUN PROPN NOUN ADJ PUNCT
+104,iPhone 7!!,black good different colour,5,Certified Buyer,"Oct, 2016",63,34,,97,8,1,0,,0,,0,0.65,4,ADJ ADJ ADJ NOUN
+105,Bcz it shows class,West Smartphone outstanding picture quality feel like royalty .,5,Certified Buyer,"Jan, 2018",14,4,,18,10,1,0,,0,,0,0.78,9,PROPN PROPN ADJ NOUN NOUN VERB SCONJ NOUN PUNCT
+106,Wonderful,"good phone market right . totally justify investment . happy get genuine product review good . 
+  thank flipkart sellersupercomnet deliver time .",5,Certified Buyer,"May, 2017",64,36,,100,36,2,0,,0,,0,0.64,22,ADJ NOUN NOUN ADV PUNCT ADV VERB NOUN PUNCT ADJ VERB ADJ NOUN NOUN ADJ PUNCT SPACE VERB PROPN PROPN NOUN NOUN PUNCT
+107,Super!,"good phone . people price great , entirely true . shone 7 beautiful phone feature match reputation . yes expensive justify Apple know high quality phone . andro phone user experience shone way better build competition . 4 year old shone 5 work perfectly , day buy . sure work equally . change andro phone thrice 4 year not anna band . 
+ 
+  Flipkart send day phone launch packing truly amazing send dairy milk chocolate . 
+ 
+  Oats flirt retail .",5,Certified Buyer,"Oct, 2016",90,55,READ MORE,145,154,10,0,,0,,0,0.62,79,ADJ NOUN PUNCT NOUN VERB ADV PUNCT ADV ADJ PUNCT NOUN NUM ADJ NOUN NOUN NOUN NOUN PUNCT INTJ ADJ VERB PROPN VERB ADJ NOUN NOUN PUNCT NOUN NOUN NOUN NOUN VERB ADV ADV NOUN NOUN PUNCT NUM NOUN ADJ NOUN NUM NOUN ADV PUNCT NOUN VERB PUNCT ADJ VERB ADV PUNCT NOUN NOUN NOUN NOUN NUM NOUN PART PROPN NOUN PUNCT SPACE PROPN VERB NOUN NOUN NOUN VERB ADV ADJ VERB NOUN NOUN NOUN PUNCT SPACE NOUN NOUN NOUN PUNCT
+108,Terrific purchase,excellent,5,Certified Buyer,"Jul, 2017",35,17,,52,1,1,0,,0,,0,0.67,1,ADJ
+109,Super!,budget 30 want premium good performance . game u . gun use ff inst pp snapchat n mail tikhon etc . gun u . doesn matter 2016 launch u buy 2019 . trust good . u look phone not waste money . u buy 7,5,Certified Buyer,4 months ago,17,6,,23,70,7,0,,0,,1,0.74,45,NOUN NUM VERB ADJ ADJ NOUN PUNCT NOUN PROPN PROPN NOUN NOUN PROPN PROPN PROPN NOUN ADJ NOUN PROPN X PUNCT PROPN PROPN PROPN PROPN PROPN NUM NOUN PRON NOUN NUM PUNCT VERB ADJ PUNCT PRON VERB NOUN PART VERB NOUN PUNCT PRON NOUN NUM
+113,Mind-blowing purchase,good trustworthy online webster flipkart fast delivery . vice phone problem ....,5,Certified Buyer,"May, 2017",13,4,,17,18,2,0,,0,,0,0.76,12,PROPN PROPN ADJ PROPN PROPN ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT
+114,Mind-blowing purchase,receive product .. nice packing excellent overall experience,5,Certified Buyer,"May, 2017",18,7,,25,7,1,0,,0,,0,0.72,8,VERB NOUN PUNCT ADJ VERB ADJ ADJ NOUN
+115,battery,"battery life telephone deliver poor . 
+  charge 84 % night morning phone switch use . 
+  not know problem",1,Certified Buyer,"May, 2017",74,47,,121,31,3,0,,0,,0,0.61,18,NOUN NOUN NOUN VERB ADJ PUNCT SPACE NOUN NUM NOUN NOUN NOUN NOUN NOUN NOUN PUNCT SPACE PART VERB NOUN
+116,Great product,Apple phone 7 price point 34999- buy thing ... West phone till date ... god pack . fully genuine product ... u want phone think ...,5,Certified Buyer,"Oct, 2018",43,24,,67,37,1,0,,0,,0,0.64,26,PROPN NOUN NUM NOUN NOUN NUM NOUN NOUN PUNCT NOUN NOUN SCONJ NOUN PUNCT PROPN NOUN PUNCT ADV ADJ NOUN PUNCT PRON VERB NOUN VERB PUNCT
+117,Delightful,Vice,4,Certified Buyer,"Jan, 2017",24,11,,35,1,1,0,,0,,0,0.69,1,PROPN
+118,Perfect product!,perfect camera perfect running battery phone hit problem,5,Certified Buyer,4 months ago,16,6,,22,10,1,0,,0,,0,0.73,8,ADJ NOUN ADJ VERB NOUN NOUN NOUN NOUN
+119,A Worthy Upgrade from IPhone 6 Plus,"shift shone 7 shone 6 plus 
+  3 feature standout 
+  1 . loud Clear Speakers 
+  2 . camera quality notch , tough competition Galaxy 
+  3 . waterproof 
+ 
+  worthy upgrade shone 6 plus",5,Certified Buyer,"Oct, 2016",161,120,,281,38,4,0,,0,,0,0.57,31,PROPN VERB NUM NOUN NUM CCONJ SPACE NUM NOUN PROPN SPACE NUM PUNCT ADJ PROPN PROPN SPACE NUM PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN PROPN SPACE NUM PUNCT PROPN SPACE ADJ NOUN VERB NUM CCONJ
+120,Terrific,thank Flipkart deliver product early . product worth spend . perfectly fit hand comfortable use . camera good genuine . battery average bad expect . enjoy .,5,Certified Buyer,"Oct, 2018",14,5,,19,57,6,0,,0,,0,0.74,27,VERB PROPN VERB NOUN ADV PUNCT NOUN ADJ VERB PUNCT ADV ADJ NOUN ADJ NOUN PUNCT NOUN ADJ PROPN PUNCT NOUN ADJ ADJ VERB PUNCT VERB PUNCT
+124,"5 Star service, Awesome experience",Flipkart give good come quality delivery . thank make purchase easy effortable . star service offer . star Lawless service trust offer,5,Certified Buyer,"May, 2017",17,8,,25,39,4,0,,0,,0,0.68,22,NOUN VERB ADJ NOUN NOUN NOUN PUNCT VERB VERB NOUN ADJ ADJ PUNCT PROPN NOUN NOUN PUNCT PROPN PROPN NOUN NOUN NOUN
+125,Terrific purchase,phone 7 128 Flipkart . personal experience good Flipkart . genuine product trust Flipkart .... snap deal amazon ....,5,Certified Buyer,"Jan, 2017",87,60,,147,28,3,0,,0,,0,0.59,19,NOUN NUM NUM PROPN PUNCT ADJ NOUN ADJ PROPN PUNCT ADJ NOUN NOUN PROPN PUNCT VERB NOUN PROPN PUNCT
+126,Amazing service from Apple & Flipkart,"Time Delivery West Flipkart . 
+ 
+  Amazing Real Flipkart . 
+ 
+  come shone 7 . nice feel . 
+ 
+  Apple good product know people want . feature hand . fan apple . 
+ 
+  Flipkart deliver promise .",5,Certified Buyer,"Oct, 2016",46,28,,74,46,8,0,,0,,0,0.62,33,PROPN PROPN PROPN PROPN PUNCT SPACE ADJ ADJ PROPN PUNCT SPACE VERB NOUN NUM PUNCT ADJ VERB PUNCT SPACE NOUN ADJ NOUN VERB NOUN VERB PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT SPACE PROPN VERB NOUN PUNCT
+127,Terrific,"big billion day 34,999 cash delivery .... thank flipkart shone 7 seriously beast ... camera ...",5,Certified Buyer,"Oct, 2018",264,215,,479,19,2,0,,0,,0,0.55,16,PROPN NUM NOUN NUM NOUN NOUN PUNCT VERB PROPN NOUN NUM ADV NOUN PUNCT NOUN PUNCT
+128,Terrific purchase,"product usual good , thank good service lip , good 10 10 genuine product provide",5,Certified Buyer,"Nov, 2016",12,4,,16,34,1,0,,0,,0,0.75,15,NOUN ADJ ADJ PUNCT VERB ADJ NOUN NOUN PUNCT ADJ NUM NUM ADJ NOUN VERB
+129,Awesome phone,"good 
+   water resistant - huge improvement 
+  increase speed noticeable w Fire . 
+  capacity amazing move , video , book , photo , music etc have store loud like usually involve monthly fee . 
+   decent size shone remain portable big 7 plus , fit pocket . 
+  Ridge feature wipe right home screen improve allow editing . add delete feature key privacy able customize good thing . 
+  lot add fun feature message sure updated software strictly shine 7 like mete , automatic reply able write w fingertip . 
+  camera take well pick increase megapixel difference noticeable room capability . 
+  fingerprint option quick access enter 6 digit pass code begin . 
+  glimm shone 6 able stand convenient viewing . 
+  speaker upgrade provide sterno audiophile standard . 
+ 
+  bad 
+  - headphone jack box include photo insect charge port provide headphone jack - bet long lose . know tireless headphone future happy old faithful headphone . 
+  -the home button define . donna longer 24 take try activate home button . require right pressure despite offer different option , easy . gun Apple Tore need stop show - bright , think learn curve thing continue use care issue .",5,Certified Buyer,"Oct, 2016",85,62,READ MORE,147,333,19,0,,0,,0,0.58,192,ADJ SPACE NOUN ADJ PUNCT ADJ NOUN SPACE NOUN NOUN ADJ PROPN PROPN PUNCT SPACE NOUN ADJ NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN PUNCT NOUN X AUX NOUN ADJ INTJ ADV VERB ADJ NOUN PUNCT SPACE ADJ NOUN NOUN VERB ADJ ADJ NUM CCONJ PUNCT ADJ NOUN PUNCT SPACE PROPN NOUN NOUN ADJ NOUN NOUN VERB VERB NOUN PUNCT VERB ADJ NOUN ADJ NOUN ADJ VERB ADJ NOUN PUNCT SPACE NOUN VERB NOUN NOUN NOUN ADV VERB NOUN ADV VERB NUM SCONJ NOUN PUNCT ADJ PROPN ADJ PROPN PROPN NOUN PUNCT SPACE NOUN VERB ADJ VERB NOUN NOUN NOUN ADJ NOUN NOUN PUNCT SPACE NOUN NOUN ADJ NOUN VERB NUM NOUN NOUN NOUN VERB PUNCT SPACE VERB NOUN NUM ADJ NOUN ADJ VERB PUNCT SPACE NOUN PROPN VERB NOUN NOUN NOUN PUNCT SPACE ADJ SPACE ADJ PROPN PROPN NOUN VERB PROPN VERB NOUN NOUN VERB PROPN PROPN PUNCT PROPN ADJ VERB PUNCT VERB NOUN NOUN ADJ ADJ ADJ ADJ NOUN PUNCT SPACE PUNCT NOUN NOUN NOUN PUNCT PROPN ADV NUM VERB NOUN VERB NOUN NOUN PUNCT VERB ADJ NOUN SCONJ VERB ADJ NOUN PUNCT ADJ PUNCT NOUN PROPN PROPN NOUN VERB NOUN PUNCT ADJ PUNCT VERB VERB NOUN NOUN VERB VERB NOUN NOUN PUNCT
+130,Just wow!,good .... design attract .. nd phone phone phone donna match level .,5,Certified Buyer,"Oct, 2018",21,10,,31,17,1,0,,0,,0,0.68,13,ADJ PUNCT NOUN NOUN PUNCT PROPN NOUN NOUN NOUN NOUN NOUN NOUN PUNCT
+131,Don't waste your money,will not buy condition provide hand .,1,Certified Buyer,"Oct, 2017",20,11,,31,10,1,0,,0,,0,0.65,7,VERB PART VERB NOUN VERB NOUN PUNCT
+132,iPhone 7 = iPhone 6S,big upgrade shone . feel,4,Certified Buyer,"Oct, 2016",52,35,,87,11,2,0,,0,,0,0.6,5,ADJ PROPN NOUN PUNCT VERB
+133,Absolute rubbish!,"3 day dead suddenly charging unable power 
+ 
+  dead give excellent performance phone 7 battery life ... 
+  good looking 
+  excellent delivery promise date .... 
+  get 34999- valve money 
+  get heat phone 
+  phone dead th nov morning day delivery 
+  happy ......... 
+  help Flipkart",1,Certified Buyer,"Nov, 2018",9,2,,11,73,1,0,,0,,0,0.82,41,NUM NOUN ADV ADV VERB ADJ NOUN SPACE ADV VERB ADJ NOUN NOUN NUM NOUN NOUN PUNCT SPACE ADJ NOUN SPACE ADJ NOUN NOUN NOUN PUNCT SPACE AUX NUM NOUN NOUN SPACE AUX NOUN NOUN SPACE NOUN ADJ PROPN PROPN PROPN PROPN NOUN SPACE ADJ PUNCT SPACE VERB PROPN
+134,Unknown products need review not iphone,"expect 
+  phone",5,Certified Buyer,"Dec, 2016",21,10,,31,5,1,0,,0,,0,0.68,2,VERB SPACE NOUN
+138,Awesome,"phone - amazing phone-7 yes lot thing improve . 
+  new tactic engine main button time adjust , issue .",5,Certified Buyer,"Oct, 2016",102,81,,183,34,2,0,,0,,0,0.56,19,NOUN PUNCT ADJ PROPN INTJ NOUN NOUN VERB PUNCT SPACE ADJ ADJ NOUN ADJ NOUN NOUN NOUN PUNCT NOUN PUNCT
+139,Great Improvement in Customer Service,"initially bit upset rider didn deliver instead mark customer available , wait 2 hour delivery . , big thank Paul storage facility , ensue delivery 30 mind odd . 
+ 
+  Final Review Satisfied y",5,Certified Buyer,"Dec, 2016",125,103,,228,50,3,0,,0,,0,0.55,33,ADV NOUN ADJ NOUN PROPN VERB ADV NOUN NOUN ADJ PUNCT VERB NUM NOUN NOUN PUNCT PUNCT ADJ VERB PROPN NOUN NOUN PUNCT NOUN NOUN NUM NOUN ADJ PUNCT SPACE PROPN PROPN PROPN NOUN
+140,Must buy!,", apple product expensive buy , buy festive sale get 3500- instant discount Flipkart unfordable price 31499- . Com Express deliver 4 day . post review performance device 3 month .",5,Certified Buyer,"Oct, 2018",32,19,,51,47,3,0,,0,,0,0.63,31,PUNCT NOUN NOUN ADJ NOUN PUNCT VERB ADJ NOUN VERB NUM ADJ NOUN PROPN ADJ NOUN NUM PUNCT PROPN PROPN VERB NUM NOUN PUNCT PROPN PROPN NOUN NOUN NUM NOUN PUNCT
+141,Best in the market!,awesome product ... speedy delivery time flipkart ... happy thank u flipkart,5,Certified Buyer,4 months ago,14,6,,20,14,1,0,,0,,0,0.7,12,ADJ NOUN PUNCT ADJ NOUN NOUN NOUN PUNCT ADJ VERB PRON PROPN
+142,Looks genuine at a good deal.,"look Genuine , get 256 59k. good deal",5,Certified Buyer,"Apr, 2017",15,6,,21,12,2,0,,0,,0,0.71,8,VERB ADJ PUNCT AUX NUM NOUN PUNCT ADJ NOUN
+143,TOOOO GOOOOOOD !!!!!!,"phone 7 superb expect . get upgrade early version phone feel difference . importantly Flipkart delivery excellent highly impressive . initially say deliver th , prepare th evening 20 minute phone office launch India , flipkart deliver home 720 pm th . faster friend get reliance outlet . 
+ 
+  Flipkart , hat passionate team effort wish good . 
+ 
+  come phone 7 , bit issue touch speaker hope service centre shall address .",5,Certified Buyer,"Oct, 2016",34,22,READ MORE,56,117,7,0,,0,,0,0.61,71,NOUN NUM PROPN VERB PUNCT AUX VERB ADJ NOUN NOUN VERB NOUN PUNCT ADV PROPN NOUN ADJ ADV ADJ PUNCT ADV VERB VERB X PUNCT VERB ADJ NOUN NUM NOUN NOUN NOUN NOUN PROPN PUNCT PROPN VERB ADV NUM NOUN X PUNCT ADJ NOUN VERB NOUN NOUN PUNCT SPACE PROPN PUNCT VERB ADJ NOUN NOUN VERB NOUN PUNCT SPACE VERB NOUN NUM PUNCT NOUN NOUN NOUN PROPN PROPN PROPN PROPN VERB VERB PUNCT
+144,Don't waste your money,"affected product , battery drain usage .",4,Certified Buyer,"Nov, 2017",20,11,,31,5,1,0,,0,,0,0.65,7,ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT
+145,Fabulous!,battery low overall performance great .,5,Certified Buyer,4 months ago,10,3,,13,8,1,0,,0,,0,0.77,6,NOUN ADJ ADJ NOUN ADJ PUNCT
+146,Just wow!,Awasom smooth 12.1.2 awesome .... like butter offence andro user s fine new experience ....... a10 fusion rock,5,Certified Buyer,"Dec, 2018",22,13,,35,35,3,0,,0,,0,0.63,18,NOUN VERB NUM ADJ PUNCT SCONJ NOUN PROPN PROPN PROPN PART ADJ ADJ NOUN PUNCT NOUN NOUN NOUN
+147,Absolute rubbish!,"phone worth half lake away color month , matter good . worth , color panel button show sign rage . link , Apple aware issue ... search paint whip Google",1,Certified Buyer,"Jun, 2017",79,70,,149,49,3,0,,0,,0,0.53,30,NOUN PROPN PROPN NOUN ADV NOUN NOUN PUNCT NOUN ADJ PUNCT ADJ PUNCT NOUN NOUN NOUN NOUN NOUN NOUN PUNCT NOUN PUNCT PROPN ADJ NOUN PUNCT NOUN NOUN NOUN PROPN
+148,Awesome piece of art to be used in Earth,"master piece invention Apple . compare previous version phone 6 , way ahead term memory , speed multitasking . geometric thumb scan fast beat end Androids good apple world . display Retina good 326 pp compare . battery juice 2 3 Camera clarity good . good shot like 21 digital . overall premium phone nice own feel edge .",5,Certified Buyer,"Jan, 2017",182,179,READ MORE,361,115,7,0,,0,,0,0.5,59,NOUN NOUN NOUN PROPN PUNCT VERB ADJ NOUN NOUN NUM PUNCT ADV ADV NOUN NOUN PUNCT NOUN NOUN PUNCT ADJ NOUN NOUN ADJ NOUN NOUN NOUN ADJ NOUN NOUN PUNCT VERB PROPN ADJ NUM VERB VERB PUNCT NOUN PROPN NUM NUM PROPN NOUN ADJ PUNCT ADJ NOUN SCONJ NUM PROPN PUNCT ADJ ADJ NOUN ADJ ADJ ADJ NOUN PUNCT
+150,Feedback on purchases of iPhone7 and Flipkart,iPhone7 awesome . phone 2 month impressive performance wise quality . Flipkart delivery good packing great . attitude delivery gun good . Flipkart reason worry .,5,Certified Buyer,"Apr, 2017",104,96,,200,46,5,0,,0,,0,0.52,26,PROPN ADJ PUNCT NOUN NUM NOUN ADJ NOUN ADJ NOUN PUNCT PROPN NOUN ADJ NOUN ADJ PUNCT NOUN NOUN NOUN NOUN PUNCT PROPN NOUN NOUN PUNCT
+151,Terrific purchase,nice phone happy thank Flipkart,5,Certified Buyer,5 months ago,32,22,,54,8,1,0,,0,,0,0.59,5,ADJ NOUN ADJ VERB PROPN
+152,Classy product,K ok type battery poor,5,Certified Buyer,"Jan, 2019",15,8,,23,8,1,0,,0,,0,0.65,5,PROPN ADJ NOUN NOUN ADJ
+153,Must buy!,"write review week . inspire apple product , build quality , display , software finally brand Apple . recently purchase shone 7 32 . touch product feel like waste life . 
+ 
+  Gros 
+  perfect size hold . 
+  display 
+  apple co system . 
+  Processor 
+  optimized software hardware 
+  dear camera . 
+ 
+  Sons 
+  camera 
+  battery",5,Certified Buyer,9 months ago,11,6,,17,74,8,0,,0,,0,0.65,51,VERB PROPN NOUN PUNCT VERB PROPN NOUN PUNCT VERB NOUN PUNCT NOUN PUNCT NOUN ADV NOUN PROPN PUNCT ADV VERB NOUN NUM NUM PUNCT VERB NOUN VERB SCONJ NOUN NOUN PUNCT SPACE PROPN SPACE ADJ NOUN NOUN PUNCT SPACE NOUN SPACE NOUN NOUN NOUN PUNCT SPACE NOUN SPACE ADJ NOUN NOUN SPACE ADJ NOUN PUNCT SPACE NOUN SPACE NOUN SPACE NOUN
+154,Super!,"perfect device ... ... slim compact powerful ... 
+  overall satisfied ... expect little battery ... rest good ...",5,Certified Buyer,"Feb, 2019",12,5,,17,20,1,0,,0,,0,0.71,18,ADJ NOUN PUNCT PUNCT ADJ ADJ ADJ PUNCT SPACE ADV ADJ PUNCT VERB ADJ NOUN PUNCT NOUN ADJ PUNCT
+155,Too Much Heated,"Phone Camera Door 
+  Round unto mark 
+  Fluid warranty cover i.e. phone damage water splash piece garage 
+   important 
+  Rio incompatibility big issue 
+  eligible Rio apple year offer u buy Online i.e Flipkart , Amazon etc .",1,Certified Buyer,"Jan, 2017",155,159,,314,58,4,0,,0,,0,0.49,35,PROPN PROPN PROPN SPACE ADJ ADJ NOUN SPACE ADJ NOUN NOUN X NOUN NOUN NOUN NOUN NOUN NOUN SPACE ADJ SPACE ADJ NOUN ADJ NOUN SPACE ADJ PROPN NOUN NOUN NOUN PRON VERB PROPN PROPN PROPN PUNCT PROPN X PUNCT
+184,Not good as expected,"good think , camera good need lot improvement , phone 3 year , expect phone 7 atom bomb dial bomb . bethink buy . big phone fan accept apple need develop , possible buy dual camera phone , patience .",2,Certified Buyer,"May, 2018",9,3,,12,75,3,0,,0,,0,0.75,40,ADJ VERB PUNCT NOUN ADJ NOUN NOUN NOUN PUNCT NOUN NUM NOUN PUNCT VERB NOUN NUM NOUN NOUN NOUN NOUN PUNCT VERB VERB PUNCT ADJ NOUN NOUN VERB NOUN VERB VERB PUNCT ADJ VERB ADJ NOUN NOUN PUNCT NOUN PUNCT
+185,Bad package services,see bad packing product . packing bad need improve pack clot . customer receive damage product,4,Certified Buyer,"May, 2017",8,3,,11,25,3,0,,0,,0,0.73,16,VERB ADJ NOUN NOUN PUNCT VERB ADJ VERB VERB NOUN NOUN PUNCT NOUN VERB NOUN NOUN
+186,The best apple product till date.,amazing product use apple till date . simply awesome,5,Certified Buyer,"Jan, 2017",29,22,,51,13,2,0,,0,,0,0.57,9,ADJ NOUN VERB NOUN SCONJ NOUN PUNCT ADV ADJ
+187,Mind-blowing purchase,good like price good,5,Certified Buyer,3 months ago,9,4,,13,8,1,0,,0,,0,0.69,4,ADJ SCONJ NOUN NOUN
+188,Wonderful,"superb ... get 38,500rs .. check apple store 100 % original warranty ..",5,Certified Buyer,"Jun, 2017",9,4,,13,15,1,0,,0,,0,0.69,13,PROPN PUNCT AUX NUM PUNCT VERB NOUN NOUN NUM NOUN ADJ NOUN PUNCT
+189,Did not meet expectations,lift dump day . say expect shine X.,1,Certified Buyer,"May, 2018",40,34,,74,19,2,0,,0,,0,0.54,8,PROPN PROPN PROPN PUNCT VERB VERB PROPN PROPN
+190,Very poor,eat problem,1,Certified Buyer,"Dec, 2016",32,25,,57,2,1,0,,0,,0,0.56,2,VERB NOUN
+191,Fabulous!,st phone . madly love . handy . premium quality . super like . battery bad .,5,Certified Buyer,4 months ago,12,6,,18,27,6,0,,0,,0,0.67,17,PROPN NOUN PUNCT ADV VERB PUNCT ADJ PUNCT ADJ NOUN PUNCT ADV INTJ PUNCT NOUN ADJ PUNCT
+192,Iphone 7 - Class of its own,"simple , not phone , simply not phone . water critic go gage everybody know brand catch apple class , technology product . start phone 3 rest history .",5,Certified Buyer,"Nov, 2016",11,6,,17,48,3,0,,0,,0,0.65,29,ADJ PUNCT PART NOUN PUNCT ADV PART NOUN PUNCT NOUN NOUN NOUN NOUN PRON VERB NOUN NOUN NOUN NOUN PUNCT NOUN NOUN PUNCT VERB NOUN NUM NOUN NOUN PUNCT
+193,Hated it!,"product faulty hear voice , delivery fast , Flipkart return state contact brand authorize service centre directly .when Flipkart authorized intent seller apple doubt exchange device . look service centre hope new hand garage Flipkart sell",1,Certified Buyer,"May, 2017",113,126,,239,76,2,0,,0,,0,0.47,36,NOUN PROPN VERB NOUN PUNCT NOUN ADV PUNCT PROPN VERB NOUN NOUN NOUN PROPN PROPN NOUN ADV PUNCT PROPN VERB ADJ NOUN NOUN VERB NOUN NOUN PUNCT VERB PROPN PROPN PROPN ADJ NOUN NOUN PROPN VERB
+200,Best in the market!,"Flipkart let far delivery date concern . bud flipkart deliver beautiful product promise time 
+  ask discount shone 7 256 .... awesome deal   thank flipkart",5,Certified Buyer,"Apr, 2017",63,67,,130,44,5,0,,0,,0,0.48,24,PROPN VERB ADV NOUN NOUN NOUN PUNCT VERB NOUN VERB ADJ NOUN NOUN NOUN SPACE VERB PROPN PROPN NUM NUM PUNCT PROPN NOUN SPACE VERB PROPN
+201,Mind-blowing purchase,ink flipcart amazing product,5,Certified Buyer,4 months ago,8,3,,11,6,1,0,,0,,0,0.73,4,PROPN ADV ADJ NOUN
+202,Received a Rs.50k detergent bar in the iPhone box,"get product 5 day order Empire Group receive get detergent bar instead shone inside shone box . highly disgusting disappointing huge company deliver rubbish cost shone . 48 hour positive response issue . pay credit card EMI money stick Flipkart update follow process . 
+
+ unexpected highly professional way deal high priority issue large money involve .",1,Certified Buyer,"May, 2017",44,47,READ MORE,91,110,5,0,,0,,0,0.48,56,AUX NOUN NUM NOUN NOUN PROPN PROPN VERB VERB NOUN NOUN ADV VERB ADV PROPN NOUN PUNCT ADV ADJ ADJ ADJ NOUN VERB ADJ NOUN NOUN PUNCT NUM NOUN ADJ NOUN NOUN PUNCT VERB NOUN NOUN PROPN NOUN VERB PROPN NOUN NOUN NOUN PUNCT SPACE VERB ADV ADJ NOUN VERB ADJ NOUN NOUN ADJ NOUN VERB PUNCT
+203,Super!,awesome,5,Certified Buyer,"Oct, 2016",9,5,,14,1,1,0,,0,,0,0.64,1,PROPN
+204,Must buy from Flipkart..committed,order shine 7 rise gold Saturday   exchange red new shone 7 deliver Sunday morning ...... hatt FLIPKART .... 24 hour new phone hand 10%cashback   cost semi ... Flipkart upgrade andro ...... love u Flipkart,5,Certified Buyer,"Oct, 2017",10,6,,16,44,1,0,,0,,0,0.62,34,PROPN VERB NUM NOUN NOUN PROPN SPACE NOUN ADJ ADJ NOUN NUM VERB PROPN NOUN PUNCT NOUN PROPN PUNCT NUM NOUN ADJ NOUN NOUN NUM SPACE NOUN NOUN PUNCT PROPN NOUN NOUN PUNCT NOUN PRON PROPN
+205,Terrible product,bad seller receive defective product .. face os problem,1,Certified Buyer,"Mar, 2017",10,6,,16,10,1,0,,0,,0,0.62,9,ADJ NOUN VERB ADJ NOUN PUNCT NOUN PROPN NOUN
+217,Good service cnt complain good delivery time n all,"expect , cable inside box work send flipkart complain receive reply check device use old phone cable charge",1,Certified Buyer,"Mar, 2017",12,9,,21,40,1,0,,0,,0,0.57,18,VERB PUNCT NOUN ADP NOUN NOUN VERB ADJ NOUN ADJ NOUN NOUN NOUN VERB ADJ NOUN NOUN NOUN
+218,iPhone 7 .... just awesome,"awesome phone mean . 
+ 1 . Lookwise elegant 4.7 inch size easy hold hand operation 
+ 2 . loud facility enable user restore datum hazard irrecoverable set change new shone 
+ 3 . phone late style builtwise 
+ 4 . round quality phone good . use earphone well feeling 
+ 5 . battery good compare iPhones 
+ 6 . Camera good lot . difference andro phone 21 camera shone 7 . shone 7 good camera quality 
+ 7 . camera well good . 
+
+ worthwhile phone budget . thank Flipkart give huge discount cost Mi",5,Certified Buyer,"Jan, 2017",21,20,READ MORE,41,144,12,0,,0,,0,0.51,88,ADJ NOUN NOUN PUNCT SPACE NUM PUNCT PROPN ADJ NUM NOUN NOUN ADJ NOUN NOUN NOUN SPACE NUM PUNCT ADJ NOUN NOUN NOUN NOUN PROPN NOUN ADJ NOUN NOUN ADJ NOUN SPACE NUM PUNCT NOUN ADJ NOUN PROPN SPACE NUM PUNCT ADJ NOUN NOUN NOUN PUNCT VERB NOUN ADV VERB SPACE NUM PUNCT NOUN ADJ NOUN PROPN SPACE NUM PUNCT NOUN ADJ NOUN PUNCT NOUN NOUN NOUN NUM NOUN NOUN NUM PUNCT NOUN NUM ADJ NOUN NOUN SPACE NUM PUNCT NOUN INTJ ADJ PUNCT SPACE ADJ NOUN NOUN PUNCT VERB PROPN VERB ADJ NOUN NOUN PROPN
+219,Iphone 7 Can handle my speed,"phone 7 handle speed 
+ 
+  use phone faster faster check nearly 5 - 6 phone till date good band , apple phone 7 phone satisfy phone usage speed . 
+ 
+  save lot time .",5,Certified Buyer,"May, 2017",64,81,,145,39,2,0,,0,,0,0.44,32,NOUN NUM NOUN NOUN SPACE VERB NOUN ADV ADJ NOUN ADV NUM SYM NUM NOUN SCONJ NOUN ADJ NOUN PUNCT NOUN NOUN NUM NOUN NOUN NOUN NOUN NOUN PUNCT SPACE VERB NOUN NOUN PUNCT
+220,i (for ideal) phone,"presumptuous acknowledge pre - order device , include , simply allude late shone . , want entirely convince shone 7 watch livestream Apple Denote . , timely launch India , exorbitant pricking hetty cashback finally swing favour . 
+
+ Apple headway design 3 generation , solace fact get black variant set apart early generation . have say , accumulation incremental update make significant step - IP67 protection , clean antenna line , camera well low light performance ois , sterno speaker , bright screen wide colour gamut , 40 % fast quand core cpu , core GPU big 1960 battery . , focus lose , , headphone jack physical button . come Android phone capacity button , doesn matter , especially multi - function button lot physical . , admit press feel odd initially mistake vibration flex case phone encase . loss easy . courageous bit practical . use Bony SBH54 bluetooth head audit quality way justify time . antagonizing invest significant purchase high - end 3.mmm jack headphone . , headphone adapt come white go black variant . guess compromise live hope Apple lightning port lot study . accept decision , Apple state , price pay large battery , water resistance sterno speaker ruin dimension , accept additional mmm thickness day . device , buy large repertoire accessory simply not exist device . 
+
+ far concern , Apple fortnight pick good Android mean accelerated rate progression compare approach deference . , apple wall garden pet door overture developer utilize aspect previously , previously lock away . continue platform choice innovative pp developer simply market income bait ad click . Google Microsoft continue offer incredible experience inexplicable well offer platform . constable offer good security , privacy , optimization consistency phone , come apple control aspect device . , exclusively appeal time Android experience . sum , wrong buy shone , mortgage finance . 
+
+ P.S. receive shone 8 p.m. , hour launch love custom packing . enjoy purchase Flipkart long time .",5,Certified Buyer,"Oct, 2016",89,119,READ MORE,208,633,27,0,,0,,0,0.43,330,ADJ NOUN ADJ ADJ ADJ NOUN PUNCT VERB PUNCT ADV VERB ADV NOUN PUNCT PUNCT VERB ADV NOUN NOUN NUM NOUN NOUN PROPN PROPN PROPN PUNCT ADV VERB PROPN PUNCT ADJ NOUN VERB NOUN ADV VERB NOUN PUNCT SPACE PROPN NOUN NOUN NUM NOUN PUNCT NOUN NOUN VERB ADJ NOUN VERB ADP ADJ NOUN PUNCT AUX VERB PUNCT NOUN ADJ NOUN VERB ADJ NOUN PUNCT PROPN NOUN PUNCT ADJ PROPN PROPN PUNCT NOUN INTJ ADJ ADJ NOUN PROPN PUNCT PROPN NOUN PUNCT ADJ NOUN ADJ NOUN NOUN PUNCT NUM NOUN ADJ PROPN NOUN NOUN PUNCT NOUN PROPN ADJ NUM NOUN PUNCT PUNCT NOUN NOUN PUNCT PUNCT NOUN PROPN PROPN PROPN PUNCT VERB PROPN NOUN NOUN NOUN PUNCT PROPN PROPN PUNCT ADV ADJ ADJ ADJ NOUN NOUN ADJ PROPN PUNCT VERB NOUN VERB ADJ ADV NOUN NOUN ADJ NOUN NOUN NOUN PUNCT NOUN ADV PUNCT ADJ NOUN ADJ PUNCT VERB PROPN PUNCT ADJ NOUN NOUN NOUN NOUN VERB NOUN PUNCT VERB VERB ADJ NOUN ADJ PUNCT NOUN NUM PROPN PROPN PROPN PUNCT NOUN NOUN VERB ADJ VERB ADJ NOUN PUNCT VERB NOUN VERB NOUN PROPN NOUN NOUN NOUN NOUN PUNCT VERB NOUN PUNCT PROPN NOUN PUNCT NOUN VERB ADJ NOUN PUNCT NOUN NOUN NOUN NOUN PROPN NOUN PUNCT VERB ADJ NOUN NOUN NOUN PUNCT NOUN PUNCT VERB ADJ NOUN NOUN ADV PART VERB NOUN PUNCT SPACE ADJ NOUN PUNCT PROPN NOUN VERB ADJ PROPN NOUN VERB NOUN NOUN VERB NOUN NOUN PUNCT PUNCT PROPN PROPN PROPN PROPN PROPN NOUN NOUN VERB NOUN ADV PUNCT ADV VERB ADP PUNCT VERB NOUN NOUN NOUN PROPN NOUN ADV VERB NOUN NOUN NOUN NOUN PUNCT PROPN PROPN VERB VERB ADJ NOUN ADJ ADJ NOUN NOUN PUNCT ADJ VERB ADJ NOUN PUNCT NOUN PUNCT NOUN NOUN NOUN PUNCT VERB NOUN NOUN VERB NOUN PUNCT PUNCT ADV VERB NOUN PROPN NOUN PUNCT NOUN PUNCT ADJ NOUN NOUN PUNCT NOUN NOUN PUNCT SPACE PROPN VERB VERB NUM NOUN PUNCT NOUN NOUN NOUN NOUN NOUN PUNCT VERB VERB PROPN ADJ NOUN PUNCT
+221,RETURN HANDSET,"hello Omit 
+  buy today phone 7 open packet switch hand hand charge phone 1 thing . return hand return defective product .",1,Certified Buyer,"Feb, 2017",44,52,,96,44,2,0,,0,,0,0.46,22,INTJ PROPN SPACE VERB NOUN NOUN NUM ADJ NOUN NOUN NOUN NOUN NOUN NOUN NUM NOUN PUNCT VERB NOUN NOUN ADJ NOUN PUNCT
+222,Superb!!!,"thank flipkart fast delivery . need explain product , phone self explanatory . 
+  have issue claim product defeat , assured seller watch undoing video idea seal box undo new phone look seal i.e. original seal hamper match imei phone bill box , good",5,Certified Buyer,"May, 2017",10,7,,17,89,4,0,,0,,0,0.59,43,VERB PROPN ADJ NOUN PUNCT VERB VERB NOUN PUNCT NOUN NOUN ADJ PUNCT SPACE AUX NOUN NOUN NOUN NOUN PUNCT ADJ NOUN NOUN VERB NOUN NOUN NOUN NOUN VERB ADJ NOUN VERB NOUN X ADJ NOUN NOUN NOUN PROPN PROPN PROPN NOUN PUNCT ADJ
+223,Waste of money!,piece . stop work 5 hour .,1,Certified Buyer,"Oct, 2016",61,78,,139,8,2,0,,0,,0,0.44,7,NOUN PUNCT VERB NOUN NUM NOUN PUNCT
+228,Don't need a Mention,"Awesome Shone . will not need review . work , simply work good . 
+  West Hardware Software combination .",5,Certified Buyer,"Jan, 2017",9,6,,15,19,4,0,,0,,0,0.6,19,PROPN PROPN PUNCT VERB PART VERB NOUN PUNCT NOUN PUNCT ADV VERB ADJ PUNCT SPACE PROPN PROPN PROPN NOUN PUNCT
+229,A Cute Little Stealthy Black Beast,"firstly Flipkart service awesome . IP7 launch th Act 7 get 8pm day . pat excellent service . packaging secure . premium black box phone box inside . nice touch user experience . 
+
+ phone . ip6 , upgrade 32 gb model . 
+ IP6 , upbraid IP7 good decision . brother IP6 phone , IP7 nail . 
+
+ IP7 - Good . 
+ Camera - undoubtedly good camera Samsung 
+ display - quand , , obvious . pleasant display . warm touch display feel pretty nice look . quand screen bad . 
+ speaker - Sterno way loud 
+ Finger print - , press lift finger fast phone unlock . test IP6 , IP6S IP7 guess winner . 
+ lift feature welcoming useful . 
+ water resistant . 70 k phone mug water heavy heart apple include water damage warranty happen . 
+ finally black color stealth awesome . 
+ performance - beat phone huge margin . cut little stealth black beast . 
+
+ IP7 - Lads . 
+ Battery - bad , bit big . west thing phone , battery drain . 
+ Charging - need phone today 
+ Headphone - usb pretty awesome , downside low battery charging , headphone music call . wait . buy bluetooth headphone . 
+
+ overall good package like loyal Android user past 6 year , twitch Phone IOS awesome experience . love phone . 
+
+ happy Purchase Flipkart Service .",5,Certified Buyer,"Oct, 2016",9,6,READ MORE,15,418,32,0,,0,,0,0.6,222,ADV PROPN NOUN ADJ PUNCT ADV VERB PUNCT PROPN NUM VERB NUM PROPN NOUN PUNCT PROPN ADJ PROPN PUNCT NOUN ADJ PUNCT PROPN PROPN PROPN NOUN NOUN ADV PUNCT ADJ NOUN NOUN NOUN PUNCT SPACE NOUN PUNCT PROPN PUNCT PROPN NUM PROPN NOUN PUNCT SPACE PROPN PUNCT ADJ PROPN ADJ NOUN PUNCT NOUN PROPN NOUN PUNCT PROPN NOUN PUNCT SPACE PROPN PUNCT ADJ PUNCT SPACE PROPN PUNCT ADV ADJ NOUN PROPN SPACE NOUN PUNCT PROPN PUNCT PUNCT ADJ PUNCT ADJ NOUN PUNCT ADJ NOUN NOUN VERB ADV ADJ NOUN PUNCT PROPN NOUN ADJ PUNCT SPACE NOUN PUNCT ADJ NOUN ADJ SPACE NOUN NOUN PUNCT PUNCT NOUN NOUN NOUN ADJ NOUN NOUN PUNCT VERB PROPN PUNCT PUNCT ADV VERB NOUN PUNCT SPACE NOUN NOUN VERB ADJ PUNCT SPACE NOUN ADJ PUNCT NUM NOUN NOUN PROPN NOUN ADJ NOUN NOUN VERB NOUN NOUN NOUN VERB PUNCT SPACE ADV ADJ NOUN NOUN ADJ PUNCT SPACE NOUN PUNCT VERB NOUN ADJ NOUN PUNCT VERB ADJ ADJ ADJ NOUN PUNCT SPACE PROPN PUNCT PROPN PUNCT SPACE NOUN PUNCT ADJ PUNCT NOUN ADJ PUNCT PROPN PROPN NOUN PUNCT NOUN NOUN PUNCT SPACE NOUN PUNCT NOUN NOUN NOUN SPACE NOUN PUNCT NOUN ADV ADJ PUNCT ADJ ADJ NOUN NOUN PUNCT NOUN NOUN NOUN PUNCT VERB PUNCT VERB PROPN PROPN PUNCT SPACE ADJ ADJ NOUN SCONJ ADJ PROPN NOUN ADV NUM NOUN PUNCT VERB NOUN PROPN ADJ NOUN PUNCT NOUN NOUN PUNCT SPACE ADJ PROPN PROPN PROPN PUNCT
+230,Worth every penny,word,5,Certified Buyer,5 months ago,8,5,,13,2,1,0,,0,,0,0.62,1,NOUN
+231,Amazing ordering experience from Flipkart !,"phone expect piece beauty . performance sappy resolution great . come shone , thing excitement look 90 % . , change inside phone . well processor , camera , water resistance technology - lot change inside . 
+
+ come delivery experience . order phone hour pre order start flipkart . keep informed progress order . 
+ get personal flipkart executive exact date time slot delivery . delivery delay 15 minute ignore . 
+ overall nice experience think nice decision buy flipkart total mad rush Apple Tore today . hand , get phone day comfort home",5,Certified Buyer,"Oct, 2016",44,54,READ MORE,98,174,12,0,,0,,0,0.45,92,NOUN VERB NOUN NOUN PUNCT NOUN PROPN NOUN ADJ PUNCT VERB NOUN PUNCT NOUN NOUN VERB NUM NOUN PUNCT PUNCT VERB ADP NOUN PUNCT INTJ NOUN PUNCT NOUN PUNCT NOUN NOUN NOUN PUNCT NOUN NOUN ADV PUNCT SPACE VERB NOUN NOUN PUNCT NOUN NOUN NOUN NOUN NOUN VERB NOUN PUNCT VERB ADJ NOUN NOUN PUNCT SPACE VERB ADJ PROPN NOUN ADJ NOUN NOUN NOUN NOUN PUNCT NOUN NOUN NUM NOUN NOUN PUNCT SPACE ADJ ADJ NOUN VERB ADJ NOUN VERB PROPN ADJ ADJ NOUN PROPN PROPN NOUN PUNCT NOUN PUNCT AUX NOUN PROPN NOUN ADV
+233,Great product added with great Flipkart exp,great job Flipkart . good experience . packing awesome . Flipkart make feel special,5,Certified Buyer,"Oct, 2016",7,3,,10,15,4,0,,0,,0,0.7,14,ADJ NOUN PROPN PUNCT ADJ NOUN PUNCT VERB ADJ PUNCT PROPN VERB VERB ADJ
+234,Iphone 7,Touch Problem   eat issue ...,1,Certified Buyer,"May, 2017",7,4,,11,5,1,0,,0,,0,0.64,5,PROPN PROPN SPACE VERB NOUN PUNCT
+235,Highly recommended,"issue absolutely , glitter virgin pack deliver time",5,Certified Buyer,"Mar, 2017",8,4,,12,10,1,0,,0,,0,0.67,8,NOUN ADV PUNCT VERB NOUN NOUN VERB NOUN
+296,Simply awesome,like thank Flipkart super fast delivery . get phone deliver today 7 pm time . long phone get surprise gift Flipkart . thank make special event memorable,5,Certified Buyer,"Oct, 2016",23,26,,49,48,4,0,,0,,0,0.47,27,SCONJ VERB PROPN ADV ADJ NOUN PUNCT AUX NOUN VERB NOUN NUM NOUN NOUN PUNCT ADJ NOUN VERB NOUN NOUN PROPN PUNCT VERB VERB ADJ NOUN ADJ
+297,"IF U DON'T HAVE AN IPHONE, WELL U DON'T AN IPHONE.","await phone year . shone user 2 year , love shone sturdy build fabulous design . Ve type phone operating system IOS awesome , phone law hang start good thing apple product . 
+
+ phone deliver 30112016 , time complaint . 
+
+ product deliver safely damage issue . 
+
+ shone son . yes lot improvement especially battery life . normal usage use 2 day charge . 
+
+ display great , touch fabulous , camera good . world crazy phone . shone . 
+
+ feel expensive ask price point flipkart offer 0 % interest EMI want . 
+
+ happy shone 7 .",5,Certified Buyer,"Dec, 2016",25,29,READ MORE,54,180,13,0,,0,,0,0.46,95,PROPN NOUN NOUN PUNCT NOUN NOUN NUM NOUN PUNCT NOUN NOUN ADJ VERB ADJ NOUN PUNCT PROPN NOUN NOUN NOUN NOUN PROPN ADJ PUNCT NOUN NOUN VERB VERB ADJ NOUN NOUN NOUN PUNCT SPACE NOUN VERB NUM PUNCT NOUN NOUN PUNCT SPACE NOUN VERB ADV NOUN NOUN PUNCT SPACE PROPN NOUN PUNCT INTJ NOUN NOUN ADV NOUN NOUN PUNCT ADJ NOUN NOUN NUM NOUN NOUN PUNCT SPACE NOUN ADV PUNCT VERB ADJ PUNCT NOUN NOUN PUNCT NOUN ADJ NOUN PUNCT NOUN PUNCT SPACE VERB ADJ NOUN NOUN NOUN NOUN VERB NUM NOUN NOUN PROPN NOUN PUNCT SPACE PROPN NOUN NUM PUNCT
+298,Awesome,brilliant product super internal speck,5,Certified Buyer,"Oct, 2016",13,12,,25,6,2,0,,0,,0,0.52,5,ADJ NOUN ADJ ADJ NOUN
+299,Worthy upgrade from iPhone 6,"firstly flipkart fair job deliver phone despite huge number order . 
+  overall shone 7 nice upgrade shone 6 get touch , photo , well camera , letter processor , Sterno speaker water proof . 
+  not think offer shone .",4,Certified Buyer,"Oct, 2016",37,48,,85,59,3,0,,0,,0,0.44,39,ADV PROPN ADJ NOUN VERB NOUN SCONJ ADJ NOUN NOUN PUNCT SPACE ADV NOUN NUM ADJ NOUN VERB NUM VERB NOUN PUNCT NOUN PUNCT INTJ NOUN PUNCT NOUN NOUN PUNCT PROPN NOUN NOUN NOUN PUNCT SPACE PART VERB NOUN NOUN PUNCT
+300,amazing Flipkart.,"get message 7 pm , delivery . 8 pm hand . hour delivery shone 7 .. Flipkart promise . impressed . friend line outside Apple Tore 4 hour , 4 hour later 10 pm get phone . 
+ get time home .... 
+ flipkart take level 
+ phone happy shone . u 6 u upgrade .. need upgrade richard apple fan , care snow value , simply money spare .. 
+
+ happy Flipkart .",5,Certified Buyer,"Oct, 2016",35,45,READ MORE,80,121,7,0,,0,,0,0.44,70,AUX NOUN NUM NOUN PUNCT NOUN PUNCT NUM NOUN NOUN PUNCT NOUN NOUN VERB NUM PUNCT PROPN NOUN PUNCT ADJ PUNCT NOUN NOUN ADP PROPN PROPN NUM NOUN PUNCT NUM NOUN ADV NUM NOUN VERB NOUN PUNCT SPACE VERB NOUN ADV PUNCT SPACE NOUN VERB NOUN SPACE NOUN ADJ NOUN PUNCT PROPN NUM PROPN PROPN PUNCT VERB PROPN PROPN PROPN PROPN PUNCT NOUN NOUN NOUN PUNCT ADV NOUN ADJ PUNCT SPACE ADJ PROPN PUNCT
+301,The pretty powerhouse in your hand,"delighted hand day shone 7 launch india . contrary rumor new shone new power house compare old version , 6 . fast new home button Septic Engine give new experience . love texture color black give unified feeling form factor . camera amazing well . lot explore update review . thing like packing accessory cardboard fold , unlike apple . overall basis will not disappoint .",5,Certified Buyer,"Oct, 2016",24,29,READ MORE,53,131,8,0,,0,,0,0.45,66,ADJ NOUN NOUN VERB NUM NOUN PROPN PUNCT ADJ NOUN ADJ VERB ADJ PROPN PROPN VERB ADJ NOUN PUNCT NUM PUNCT ADJ ADJ NOUN NOUN PROPN PROPN VERB ADJ NOUN PUNCT VERB NOUN NOUN ADJ VERB VERB NOUN NOUN NOUN PUNCT NOUN ADJ ADV PUNCT PROPN VERB NOUN NOUN PUNCT NOUN SCONJ VERB ADJ NOUN VERB PUNCT ADP NOUN PUNCT ADJ NOUN VERB PART VERB PUNCT
+302,Amazing is the one word for Apple.,"get Apple shine 7 , thank Flipkart amazing low price 38499- big billion day , package arrive time . 
+ New phone 7 , mesmerize look , feature touch , crisp clear display , sound good , ear - pad class good sound . start Apple phone realize cost smartphone . terrific sale support . phone heat bit initial 2 day , contract apple customer service chat phone support solve query .Apple unique feature adapt start use phone initial day heat bit entry true . not feel like phone , phone light weight u feel u start gem device . Camera par phone come close pick quality phone 7 .Finally phone , use surely regret . thank .",5,Certified Buyer,"May, 2017",14,14,READ MORE,28,206,9,0,,0,,0,0.5,117,AUX PROPN NOUN NUM PUNCT VERB PROPN ADJ ADJ NOUN NUM ADJ NUM NOUN PUNCT NOUN ADJ NOUN PUNCT SPACE ADJ NOUN NUM PUNCT NOUN NOUN PUNCT NOUN NOUN PUNCT ADJ ADJ NOUN PUNCT VERB ADJ PUNCT ADJ PUNCT NOUN NOUN ADJ NOUN PUNCT VERB PROPN NOUN VERB NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT NOUN NOUN NOUN ADJ NUM NOUN PUNCT NOUN NOUN NOUN NOUN VERB NOUN NOUN VERB NOUN PUNCT ADJ NOUN NOUN VERB VERB NOUN ADJ NOUN NOUN NOUN NOUN ADJ PUNCT PART VERB SCONJ NOUN PUNCT NOUN NOUN NOUN PRON VERB PRON VERB NOUN NOUN PUNCT NOUN NOUN NOUN VERB ADJ NOUN NOUN NOUN NUM NUM NOUN PUNCT VERB ADV NOUN PUNCT VERB PUNCT
+303,Useless product,not anna star product ... provide bad product ... phone charge heating flipcart ready help customer bad ready responsibility y shell product .... suggest u gun not buy flipcart .... bad bad ..... disappoint ....,1,Certified Buyer,"Sep, 2017",9,6,,15,61,1,0,,0,,0,0.6,35,PART PROPN PROPN NOUN PUNCT VERB ADJ NOUN PUNCT NOUN NOUN NOUN ADV ADJ NOUN NOUN ADJ ADJ NOUN NOUN ADJ NOUN PUNCT VERB PROPN NOUN PART VERB ADV PUNCT ADJ ADJ PUNCT NOUN PUNCT
+304,Not good,"3 problem 2 month time . ask replacement wait hear Apple . problem 
+  1 unable hear headphone . repair center change , problem continue 
+  2 shone power , kind completely dead .",2,Certified Buyer,"Aug, 2017",8,6,,14,50,4,0,,0,,0,0.57,32,NUM NOUN NUM NOUN NOUN PUNCT VERB NOUN NOUN VERB PROPN PUNCT NOUN SPACE NUM ADJ VERB NOUN PUNCT PROPN PROPN NOUN PUNCT NOUN VERB SPACE NUM NOUN NOUN PUNCT ADV ADV ADJ PUNCT
+305,Extremely satisfied despite being sceptical at 1st,"sceptic seller genuineness product buy product extremely cheap rate sale . month , product show absolutely stitch make doubt product counterfeit . recommend .",4,Certified Buyer,"Jun, 2017",7,5,,12,60,3,0,,0,,0,0.58,24,ADJ NOUN NOUN NOUN VERB NOUN ADV ADJ NOUN NOUN PUNCT NOUN PUNCT NOUN VERB ADV NOUN VERB NOUN NOUN ADV PUNCT VERB PUNCT
+306,Best phone ever,recently buy shone 7 zero payment Ajar finger shone tell shine experience law heat fast fast camera quality good,5,Certified Buyer,"Nov, 2016",6,4,,10,40,1,0,,0,,0,0.6,19,ADV VERB NOUN NUM NUM NOUN PROPN NOUN NOUN X NOUN NOUN NOUN NOUN ADV ADJ NOUN NOUN NOUN
+307,Awesome Product,"excellent product , worth money ...",5,Certified Buyer,"Nov, 2016",6,4,,10,5,1,0,,0,,0,0.6,6,ADJ NOUN PUNCT ADJ NOUN PUNCT
+308,Outdid Apple !!,Flipkart outside Apple term handing phone hour indian launch . launch pm . phone home deliver 8 . go friend Apple pick piece get pm learn lesson . M super impress,5,Certified Buyer,"Oct, 2016",60,96,,156,58,7,0,,0,,0,0.38,31,PROPN ADP PROPN NOUN NOUN NOUN NOUN ADJ NOUN PUNCT NOUN PROPN PUNCT NOUN NOUN VERB NUM PUNCT VERB NOUN PROPN NOUN NOUN AUX NOUN VERB NOUN PUNCT PROPN NOUN NOUN
+309,Awesome phone,"receive sex beast phone 7 gold day release.5 star flipkart fat delivery . quality phone awesome , good touch battery . new camera quality sterno sound excellent . later proof feature advantage look shone . overall 5 star cheer",5,Certified Buyer,"Oct, 2016",11,11,,22,65,5,0,,0,,0,0.5,39,VERB NOUN NOUN NOUN NUM NOUN NOUN PROPN NOUN NOUN ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT ADJ NOUN NOUN NOUN VERB ADJ PUNCT ADV NOUN NOUN NOUN NOUN VERB PUNCT ADV NUM NOUN NOUN
+312,"Poor battery, may be its a faulty Product.","packing good . N receive hand drowned battery . charge start . set enter password email , doubt new phone 7 worth ruble ask brand new second hand duplicate . come know battery poor compare previous version . 6 , n , battery get extremely good satisfied phone 7 battery get faulty product . lose trust flipkart .",2,Certified Buyer,"Aug, 2017",71,121,READ MORE,192,118,7,0,,0,,0,0.37,58,VERB ADJ PUNCT NUM ADJ NOUN VERB NOUN PUNCT NOUN NOUN PUNCT VERB VERB NOUN NOUN PUNCT VERB ADJ NOUN NUM ADJ NOUN VERB NOUN ADJ ADJ NOUN NOUN PUNCT VERB VERB NOUN ADJ VERB ADJ NOUN PUNCT NUM PUNCT ADJ PUNCT NOUN VERB ADV ADJ ADJ NOUN NUM NOUN VERB ADJ NOUN PUNCT VERB NOUN NOUN PUNCT
+313,Awesome phone!!!,"degrade shone 7 amazing . late mobile available market heat continuously . battery amazing withstand 8 10 hour continuous network usage . West mobile . 
+ 
+  product delivery get delay 1 day like 5 rating customer service excellent . 
+ 
+  thank Flipkart ..",5,Certified Buyer,"Jan, 2017",29,42,,71,68,6,0,,0,,0,0.41,41,PROPN VERB NUM ADJ PUNCT ADJ ADJ ADJ NOUN NOUN ADV PUNCT NOUN ADJ VERB NUM NUM NOUN ADJ NOUN NOUN PUNCT PROPN NOUN PUNCT SPACE NOUN NOUN VERB NOUN NUM NOUN SCONJ NUM NOUN NOUN NOUN ADJ PUNCT SPACE VERB PROPN PUNCT
+338,True iPhone experience,"absolutely amazing product . month . candle day day activity like breeze . upgrade shone difference noticeable . definitely hold phone 2 - 2.5 year shone generally good shelf life . 
+ 
+  bud Flipkart , get phone is.38,500 get deliver 2 day . 
+ 
+  deep good work",5,Certified Buyer,"Jun, 2017",10,10,,20,76,7,0,,0,,0,0.5,45,ADV ADJ NOUN PUNCT NOUN PUNCT PROPN PROPN NOUN NOUN SCONJ NOUN PUNCT PROPN NOUN NOUN ADJ PUNCT ADV VERB NOUN NUM SYM NUM NOUN VERB ADV ADJ NOUN NOUN PUNCT SPACE VERB PROPN PUNCT VERB NOUN PROPN AUX VERB NUM NOUN PUNCT SPACE ADJ ADJ NOUN
+339,Just okay,buy product 60000 ruble repay courier boy keep say deliver phone tomorrow say showing delivery get home n wait keep say deliver tomorrow n say come colony plus get deliver flipkart pp 4 pm deliver 6 pm not know get frustrated phone volume key want clink n sanctioning get flipkart service say Apple service centre get fix come n battery draining happen rest phone okay delivery n piece get want good get good price complain ... improve delivery service flipkart mark happy purchase n remove star .... update ... phone drain battery 10.3.3 update work fine think software issue well flipkart service well apple thank god phone heal software update ......,3,Certified Buyer,"May, 2017",10,10,READ MORE,20,213,1,0,,0,,0,0.5,111,VERB NOUN NUM VERB ADJ NOUN NOUN VERB VERB VERB NOUN NOUN VERB VERB NOUN VERB NOUN NOUN NOUN VERB VERB VERB NOUN ADJ VERB VERB NOUN CCONJ AUX VERB PROPN PROPN NUM NOUN VERB NUM NOUN PART VERB AUX VERB NOUN NOUN NOUN NOUN NOUN ADJ NOUN VERB NOUN NOUN VERB PROPN NOUN PROPN VERB NOUN VERB ADJ NOUN VERB VERB NOUN NOUN INTJ NOUN NOUN NOUN AUX VERB ADJ VERB ADJ NOUN NOUN PUNCT VERB NOUN NOUN NOUN PROPN PROPN NOUN PROPN VERB NOUN PUNCT NOUN PUNCT NOUN NOUN NOUN NUM VERB NOUN ADJ VERB NOUN NOUN INTJ PROPN PROPN INTJ PROPN VERB PROPN PROPN ADJ NOUN NOUN PUNCT
+340,"Great phone, missing headphone jack aside.","phone exactly describe implacable build quality . new black colour look great . yes , expensive cash offer pre - order unit , work k price include taxis . cost guess indian warranty peace mind . 
+ 
+  , flipkart flipkart , attempt delivery phone day release great .",5,Certified Buyer,"Oct, 2016",13,15,,28,79,5,0,,0,,0,0.46,47,NOUN ADV VERB ADJ NOUN NOUN PUNCT ADJ ADJ NOUN VERB ADJ PUNCT INTJ PUNCT ADJ NOUN NOUN ADJ ADJ ADJ NOUN PUNCT NOUN NOUN NOUN VERB NOUN PUNCT NOUN ADJ PROPN NOUN NOUN NOUN PUNCT SPACE PUNCT PROPN PROPN PUNCT VERB NOUN NOUN NOUN NOUN ADV PUNCT
+341,Great experince,mobile good . defect thank supercomnet retainer . Flipkart deliver week promise date deliver early promise date . miss route courier misroute stock package . delivery product good notice mobile heating high utilisation happen WhatsApp video call frequently.it month experience phone mobile good build ape cool .,4,Certified Buyer,"Jul, 2017",9,9,,18,79,4,0,,0,,0,0.5,47,PROPN ADJ PUNCT VERB VERB NOUN NOUN PUNCT PROPN VERB NOUN NOUN NOUN VERB ADJ NOUN NOUN PUNCT PROPN PROPN PROPN PROPN PROPN NOUN PUNCT NOUN NOUN ADJ NOUN NOUN NOUN ADJ NOUN VERB PROPN NOUN NOUN X NOUN NOUN NOUN NOUN ADJ VERB NOUN ADJ PUNCT
+342,Nice phone,"product time , thank flipkat ask price , nice phone , heat little expect performance amazing , benchmark score varie accord temperature , keep fridge benchmark score par shone score overall satisfied purchase",5,Certified Buyer,"May, 2017",9,9,,18,53,2,0,,0,,0,0.5,33,NOUN NOUN PUNCT VERB PROPN PROPN NOUN PUNCT ADJ NOUN PUNCT NOUN ADJ VERB NOUN ADJ PUNCT ADJ NOUN PROPN PROPN PROPN PUNCT VERB NOUN NOUN NOUN NOUN NOUN NOUN ADV ADJ NOUN
+343,Absolute rubbish!,product hardware issue confirm Apple . Flipkart support reluctant product submit apple case number . will not purchase Apple product Flipkart . nightmare,1,Certified Buyer,"Aug, 2017",19,26,,45,40,4,0,,0,,0,0.42,23,NOUN NOUN NOUN VERB PROPN PUNCT PROPN VERB ADJ NOUN VERB NOUN NOUN NOUN PUNCT VERB PART VERB PROPN NOUN PROPN PUNCT PROPN
+344,Worth purchase,"phone u dream use , 1 thing need change quiet difficult phone 6 7 look phone 7 good",4,Certified Buyer,"Jan, 2017",6,5,,11,39,1,0,,0,,0,0.55,18,NOUN PROPN NOUN NOUN PUNCT NUM NOUN VERB VERB ADJ ADJ NOUN NUM NUM NOUN NOUN NUM NOUN
+345,Don't waste your money,"dead j open ... 
+  felling relax fkipkart go replace ...",1,Certified Buyer,"Dec, 2016",8,8,,16,22,1,0,,0,,0,0.5,10,PROPN PROPN ADJ PUNCT SPACE VERB NOUN NOUN VERB VERB PUNCT
+346,This is 7. But doesn't live upto expectations.,"shone 7 - 32 GB Black 
+
+ Gros 
+ - Superfast A10 Processor 
+ - Improved button Septic Feedback 
+ - Excellent light camera image sterilisation 
+ - 32 GB Storage base model 
+ - improve Sterno sound speaker 
+ - great battery life . last day charge . significantly well predecessor . 
+ - importantly , time waterproof . 
+
+ Sons 
+ - shone 16 GB , haven notice difference aesthetic phone feel . worth upbraid shone 6   . 
+ - headphone jack . insert adapt order use external headphone 3.mmm jack . 
+ - screen quality . 
+
+ Verdict   feel phone overhype phone good buy new shone user upbraid .",5,Certified Buyer,"Oct, 2016",8,8,READ MORE,16,148,10,0,,0,,0,0.5,99,NOUN NUM SYM NUM PROPN PROPN SPACE PROPN SPACE PUNCT PROPN PROPN PROPN SPACE PUNCT PROPN NOUN PROPN PROPN SPACE PUNCT ADJ ADJ NOUN NOUN NOUN SPACE PUNCT NUM PROPN PROPN NOUN NOUN SPACE PUNCT VERB PROPN NOUN NOUN SPACE PUNCT ADJ NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT ADV INTJ NOUN PUNCT SPACE PUNCT ADV PUNCT NOUN PROPN PUNCT SPACE PROPN SPACE PUNCT VERB NUM PROPN PUNCT NOUN NOUN NOUN ADJ NOUN NOUN PUNCT ADJ PROPN NOUN NUM SPACE PUNCT SPACE PUNCT NOUN NOUN PUNCT ADV NOUN NOUN VERB PROPN PROPN NUM NOUN PUNCT SPACE PUNCT NOUN NOUN PUNCT SPACE NOUN SPACE VERB NOUN NOUN NOUN ADJ VERB ADJ NOUN NOUN PROPN PUNCT
+347,"The perfect mix of Storage, form factor and capabilities","Ought 1 India launch 
+  amazing hardwaresoftware unify experience . 
+  improved backfront camera ... 
+  .. minimum 32 , apple finally storage right . 
+  Fingerprint clock work fearlessly",5,Certified Buyer,"Dec, 2016",15,20,,35,34,4,0,,0,,0,0.43,26,PROPN NUM PROPN NOUN SPACE ADJ PROPN PROPN NOUN PUNCT SPACE ADJ PROPN PROPN PUNCT SPACE PUNCT NOUN NUM PUNCT PROPN ADV NOUN ADV PUNCT SPACE NOUN NOUN NOUN ADV
+351,Best Phone I ever used,"Apple water , 2 thing , customisation price , typical customisation guy , thing work box expect update . datum security important . see lot YouTube review buy Samsung Galaxy , week cool , start feel like andro device , late feature paper refinement , , consumer device design liability matter , feel like refine like skin andro , lot background service . camera - low light object appear average . download update ape roam cellular network . think exchange shone luck Flipkart option SAMSUNG category , outside value secondhand andro device give device brother Ought shine 7 . Sac system work great . fall grate hand , awesome , refined ape , letter image rendering , west security integration ape , message grate , 1.5 day battery medium internet usage , automatic history old new apple device , free apple ape Garageband , , video shoot love",5,Certified Buyer,"May, 2017",16,24,READ MORE,40,230,8,0,,0,,0,0.4,148,PROPN NOUN PUNCT NUM NOUN PUNCT NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT NOUN NOUN NOUN VERB NOUN PUNCT VERB NOUN ADJ PUNCT VERB NOUN PROPN NOUN VERB PROPN PROPN PUNCT NOUN ADJ PUNCT VERB VERB SCONJ NOUN NOUN PUNCT ADJ NOUN NOUN NOUN PUNCT PUNCT NOUN NOUN NOUN NOUN NOUN PUNCT VERB SCONJ NOUN SCONJ NOUN NOUN PUNCT NOUN NOUN NOUN PUNCT NOUN PUNCT ADJ ADJ NOUN VERB ADJ PUNCT PROPN PROPN PROPN PROPN PROPN NOUN PUNCT VERB PROPN NOUN NOUN PROPN NOUN PROPN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN VERB NOUN NOUN VERB VERB NUM PUNCT NOUN NOUN NOUN ADV PUNCT VERB NOUN NOUN PUNCT ADJ PUNCT ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT PROPN PROPN NOUN NOUN PUNCT NOUN NOUN PUNCT NUM NOUN NOUN NOUN NOUN NOUN PUNCT ADJ NOUN ADJ ADJ NOUN NOUN PUNCT ADJ NOUN PROPN PROPN PUNCT PUNCT NOUN NOUN NOUN
+352,Worth buy,"product 
+  well touch response time previous version shone . black color super cool , change look . Camera upgrade good , bright display . 
+  Sterno sound good , new home button sensitive , overall good buy . 
+ 
+  delivery pack 
+  timely delivery user cool box , bud Flipkart",4,Certified Buyer,"Oct, 2016",15,22,,37,61,5,0,,0,,0,0.41,47,NOUN SPACE INTJ VERB NOUN NOUN ADJ NOUN NOUN PUNCT ADJ NOUN ADV ADJ PUNCT NOUN NOUN PUNCT NOUN VERB ADJ PUNCT ADJ NOUN PUNCT SPACE NOUN VERB ADJ PUNCT ADJ NOUN NOUN ADJ PUNCT ADJ ADJ NOUN PUNCT SPACE NOUN NOUN SPACE ADJ NOUN NOUN PROPN NOUN PUNCT VERB PROPN
+353,Amazing Iphone 7,"phone 7 amazing phone fear good camera people buy dslr . 
+  thank u flipkart instant delivery",5,Certified Buyer,"Oct, 2016",8,9,,17,29,2,0,,0,,0,0.47,16,NOUN NUM ADJ NOUN NOUN ADJ NOUN NOUN VERB ADJ PUNCT SPACE VERB PROPN PROPN ADJ NOUN
+354,iPhone 7 great value for money,"excellent great value money . great experience move shone 4 year shone 7 . new , fast touch response finger print senior great . west fast processor current smartphone . Camera outstanding , well camera experience shone shine 7 camp   imp great , especially low light shot great . miss 3.mmm jack lightning cable headphone charge way good . overall great buying experience Flipkart great discount exchange offer . stump -",5,Certified Buyer,"Jan, 2017",9,11,READ MORE,20,107,8,0,,0,,0,0.45,71,ADJ ADJ NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NUM NOUN NOUN NUM PUNCT ADJ PUNCT ADJ NOUN NOUN NOUN NOUN ADJ ADV PUNCT PROPN ADJ NOUN ADJ NOUN PUNCT NOUN ADJ PUNCT INTJ NOUN NOUN NOUN VERB NUM NOUN SPACE ADJ ADJ PUNCT ADV ADJ ADJ VERB ADJ PUNCT PROPN PROPN PROPN PROPN PROPN NOUN NOUN ADV ADJ PUNCT ADJ ADJ NOUN NOUN PROPN ADJ NOUN NOUN NOUN PUNCT NOUN PUNCT
+355,Superb product and fantastic service by Flipkart !,"glassy product Apple tremendous effort Flipkart sure purchase memorable customer deliver product right launch time . bit disappointed lucky pp phone deliver Flipkart founder , understand possible deliver . 
+
+ phone look beautiful , amazing camera quality touch quality . start phone Flipkart pp download review product . day usage , come depth review product . 
+
+ Flipkart u rock",5,Certified Buyer,"Oct, 2016",10,13,READ MORE,23,131,7,0,,0,,0,0.43,58,NOUN NOUN PROPN ADJ NOUN PROPN ADJ NOUN ADJ NOUN VERB NOUN ADJ NOUN NOUN PUNCT NOUN ADJ ADJ NOUN NOUN VERB PROPN NOUN PUNCT VERB ADJ NOUN PUNCT SPACE NOUN VERB ADJ PUNCT ADJ NOUN NOUN NOUN NOUN PUNCT VERB NOUN PROPN CCONJ NOUN NOUN NOUN PUNCT NOUN NOUN PUNCT VERB NOUN NOUN NOUN PUNCT SPACE PROPN PROPN NOUN
+356,Terrific purchase,"Camera superb ..... natural 
+  satisfy product ... 
+  ask processing ahead blandly product",5,Certified Buyer,4 months ago,13,20,,33,17,2,0,,0,,0,0.39,12,PROPN NOUN PUNCT ADJ SPACE NOUN NOUN PUNCT SPACE VERB VERB ADV ADV NOUN
+357,Gorgeous black,"shone 7 launch 7 IST October 7 India . receive sms 7 delivery boy get product . receive product 8 , hour launch . great excitement open packing say priority . open find flipkart exclusive black box design shone 7 . packing elegant surprise . bud flipkart packing delivery . 
+
+ come phone 
+ 1 colour elegant . design nearly 3.mmm earphones jack , colour make different gorgeous . touch awesome phone set easy . 
+ 2 speaker loud previous version phone . sure 2 time sound previous phone . 
+ 3 reception good . try Hittel Reliance Rio . 
+ 4 camera good . 
+ 5 absolutely love customisable home button give feeling press button feeling andro phone . 
+ 6 storage delight . 
+
+ Sons 
+ 1 battery great . drain fast minimal YouTube internet usage new ape instal run background . 
+ 2 display satisfy eye well come resolution . love see . 
+
+ phone gorgeous simple . thank flipkart Apple .",5,Certified Buyer,"Oct, 2016",41,83,READ MORE,124,269,23,0,,0,,0,0.33,154,NOUN NUM NOUN NUM PROPN PROPN NUM PROPN PUNCT VERB PROPN NUM NOUN NOUN AUX NOUN PUNCT VERB NOUN NUM PUNCT NOUN NOUN PUNCT ADJ NOUN ADJ NOUN VERB NOUN PUNCT ADJ VERB PROPN ADJ ADJ NOUN NOUN VERB NUM PUNCT VERB ADJ NOUN PUNCT VERB NOUN NOUN NOUN PUNCT SPACE VERB NOUN SPACE NUM NOUN ADJ PUNCT VERB ADV NUM NOUN NOUN PUNCT PROPN VERB ADJ ADJ PUNCT VERB ADJ NOUN VERB ADV PUNCT SPACE NUM NOUN ADJ ADJ NOUN NOUN PUNCT ADJ NUM NOUN VERB ADJ NOUN PUNCT SPACE NUM NOUN ADJ PUNCT VERB PROPN PROPN PROPN PUNCT SPACE NUM NOUN NOUN PUNCT SPACE NUM ADV VERB ADJ NOUN NOUN VERB VERB NOUN NOUN VERB NOUN NOUN PUNCT SPACE NUM NOUN NOUN PUNCT SPACE PROPN SPACE NUM NOUN ADJ PUNCT VERB ADJ ADJ PROPN NOUN NOUN ADJ NOUN ADJ NOUN NOUN PUNCT SPACE NUM NOUN NOUN NOUN ADV VERB NOUN PUNCT NOUN VERB PUNCT SPACE NOUN ADJ NOUN PUNCT VERB PROPN PROPN PUNCT
+358,Wrong product,"product 
+  1 . headphone work 
+  2 . 4 hour stand battery life",1,Certified Buyer,"Apr, 2017",6,6,,12,12,3,0,,0,,0,0.5,12,NOUN SPACE NUM PUNCT NOUN NOUN SPACE NUM PUNCT NUM NOUN VERB NOUN NOUN
+359,Most awaited phone,"thank flipkart . feel phone hand . shone 7 awesome touch , battery , design etc.and camera quality good . thank flipkart deliver phone time .",5,Certified Buyer,"Oct, 2016",6,6,,12,42,4,0,,0,,0,0.5,26,VERB PROPN PUNCT VERB NOUN NOUN PUNCT NOUN NUM ADJ NOUN PUNCT NOUN PUNCT NOUN NUM NOUN NOUN ADJ PUNCT VERB PROPN VERB NOUN NOUN PUNCT
+360,Defective pieces- Dont buy,"spend money not spend . purchase phone 6 year online site . work fine . phone 7 order sale defective . room mistake , apple . replacement defective piece . flipkart sell defective piece . annoy purchase . spend peaceful . return product speaker work phone . send replacement old phone . .",4,Certified Buyer,"Jan, 2017",21,37,READ MORE,58,115,12,0,,0,,0,0.36,53,VERB NOUN PART VERB PUNCT VERB NOUN NUM NOUN ADJ NOUN PUNCT VERB ADV PUNCT NOUN NUM NOUN NOUN ADJ PUNCT NOUN NOUN PUNCT PROPN PUNCT NOUN ADJ NOUN PUNCT PROPN VERB ADJ NOUN PUNCT DET NOUN PUNCT VERB ADJ PUNCT VERB NOUN NOUN NOUN NOUN PUNCT VERB NOUN ADJ NOUN PUNCT PUNCT
+362,Superb and stylish!,"superb phone , elegant , stylish class colour matter black ... great choice 
+  Flipkart live delivery promise today launch day . overall brilliant North money spend",5,Certified Buyer,"Oct, 2016",14,22,,36,32,3,0,,0,,0,0.39,26,PROPN NOUN PUNCT ADJ PUNCT ADJ NOUN NOUN NOUN ADJ PUNCT ADJ NOUN SPACE PROPN ADJ NOUN NOUN NOUN NOUN NOUN PUNCT ADV ADJ PROPN NOUN VERB
+363,Way to go Flipkart!,big thank gun Flipkart go extra mile surprise hand deliver phone launch day chocolate good service experience phone look incredible d strongly recommend purchase Flipkart . -R,5,Certified Buyer,"Oct, 2016",13,20,,33,49,4,0,,0,,0,0.39,27,ADJ NOUN NOUN PROPN VERB ADJ NOUN NOUN NOUN VERB NOUN NOUN NOUN NOUN ADJ NOUN NOUN NOUN VERB ADJ NOUN ADV NOUN NOUN PROPN PUNCT PUNCT
+364,My first proper iDevice,"start 
+
+ shone 7 wondrous device sick animation , gorgeous design , compelling hardware - come single - especially people come Android . nick lack convenient transitioning software feature keep crash reason - start mentally - way 15 year . want technology thing agent change . know feed contact mentally avoid complex data inconsistency , think leave install super handy Trucaller pp meantime - realize moment later trucaller live CALLER WAY android - essentially mean left feel completely embarrassed moment entirety - check number MANUALLY lament lack well judgment . 
+
+ , neck later , certainly come overwhelmingly satisfied decision switch device long live Apple 
+
+ big thumb Flipkart convey purchase - big small - little time little trouble",5,Certified Buyer,"Nov, 2016",10,15,READ MORE,25,251,8,0,,0,,0,0.4,116,VERB SPACE VERB NUM ADJ NOUN ADJ NOUN PUNCT ADJ NOUN PUNCT VERB NOUN PUNCT VERB ADJ PUNCT ADV NOUN VERB PROPN PUNCT PROPN PROPN ADJ VERB NOUN NOUN VERB NOUN NOUN PUNCT VERB ADV PUNCT NOUN NUM NOUN PUNCT VERB NOUN NOUN NOUN NOUN PUNCT VERB NOUN NOUN ADV VERB ADJ NOUN NOUN PUNCT VERB VERB VERB ADV ADJ PROPN CCONJ ADV PUNCT VERB NOUN ADV PROPN VERB PROPN PROPN NOUN PUNCT ADV VERB VERB VERB ADV ADJ NOUN NOUN PUNCT NOUN NOUN PROPN NOUN NOUN ADJ NOUN PUNCT SPACE PUNCT NOUN ADV PUNCT ADV VERB ADV ADJ NOUN NOUN NOUN ADV VERB PROPN SPACE ADJ NOUN PROPN NOUN NOUN PUNCT ADJ ADJ PUNCT ADJ NOUN ADJ NOUN
+365,Awesome,"order friend , terrific performance par well plus 5 sport late snapdragon 835 . build quality notch camera performance great low light . 42000 definitely great phone price .",5,Certified Buyer,"Jun, 2017",6,7,,13,53,3,0,,0,,0,0.46,29,PROPN PROPN PUNCT ADJ NOUN NOUN ADV CCONJ NUM NOUN ADJ PROPN NUM PUNCT VERB NOUN NOUN NOUN NOUN ADJ ADJ NOUN PUNCT NUM ADV ADJ NOUN NOUN PUNCT
+366,Useless product,"1 star seller ... seller doesn deliver promise date , defeat shopping experience . like regular thing look review mention . shone 7 5 star product .",1,Certified Buyer,"Dec, 2016",8,11,,19,41,3,0,,0,,0,0.42,27,NUM PROPN NOUN PUNCT NOUN NOUN VERB NOUN NOUN PUNCT NOUN NOUN NOUN PUNCT SCONJ ADJ NOUN VERB NOUN NOUN PUNCT NOUN NUM NUM NOUN NOUN PUNCT
+378,Terrific,good . camera quality good . holy sound well voice,5,Certified Buyer,"Oct, 2018",6,8,,14,13,3,0,,0,,0,0.43,10,ADJ PUNCT NOUN NOUN ADJ PUNCT ADJ VERB INTJ NOUN
+379,Defective product delivered,"bring week ago . defective product deliver . confirm report Apple authorize service center . follow Flipkart customer care , clue handle complaint . face issue West , exchange . Felt sad bring Flipkart interesting pp clue customer service .",2,Certified Buyer,"May, 2017",6,8,,14,71,6,0,,0,,0,0.43,40,VERB NOUN ADV PUNCT ADJ NOUN VERB PUNCT VERB NOUN PROPN VERB NOUN NOUN PUNCT VERB PROPN NOUN NOUN PUNCT NOUN VERB NOUN PUNCT NOUN NOUN PROPN PUNCT NOUN PUNCT VERB ADJ VERB PROPN ADJ PROPN PROPN NOUN NOUN PUNCT
+380,Delightful,"product good world know delivery system pathetic . 
+  initial date - Act , delay oct , change color old colour , create rs1000 gift card compensation . 
+  delivery get delay 2 day product reach nearby hut . 
+ 
+  show flipkart professionalism logistic poor light",4,Certified Buyer,"Oct, 2016",5,6,,11,56,4,0,,0,,0,0.45,43,NOUN ADJ NOUN VERB NOUN NOUN ADJ PUNCT SPACE ADJ NOUN PUNCT PROPN PUNCT NOUN PROPN PUNCT VERB NOUN ADJ NOUN PUNCT VERB PROPN NOUN NOUN NOUN PUNCT SPACE NOUN VERB NOUN NUM NOUN NOUN VERB ADJ PROPN PUNCT SPACE VERB PROPN NOUN PROPN ADJ NOUN
+1008,5K anriod phone better than this.,"bring day lunch , lot expectation start face network issue think hittel , time fight people network insist fix unable understand problem come afraid comment phone brand new Phone   compromise think hittel service bad . application start create problem , ignore . 
+  unable access photo , 8 month today day completely stop work . 
+ 
+  bad experience apple phone , pathetic . 
+ 
+  not buy value money period phone well .",1,Certified Buyer,"Jun, 2017",12,24,READ MORE,36,150,5,0,,0,,0,0.33,69,VERB PROPN NOUN PUNCT NOUN NOUN VERB VERB NOUN NOUN VERB NOUN PUNCT NOUN VERB NOUN NOUN VERB NOUN ADJ NOUN NOUN VERB ADJ NOUN NOUN NOUN ADJ PROPN SPACE NOUN VERB NOUN NOUN ADJ PUNCT NOUN NOUN VERB NOUN PUNCT NOUN PUNCT SPACE ADJ NOUN NOUN PUNCT NUM NOUN NOUN NOUN ADV VERB NOUN PUNCT SPACE ADJ NOUN NOUN NOUN PUNCT ADJ PUNCT SPACE PART VERB NOUN NOUN NOUN NOUN ADV PUNCT
+1007,Worth every penny.,usual touch awesome . form factor ease use good . awesome delivery Flipkart . great packing . Flipkart leave stone unturned feel personal . great feature shone 7 install default ape not want use . usual Fire great . great discount Citibank .,5,Certified Buyer,"Oct, 2016",9,16,,25,59,8,0,,0,,0,0.36,43,ADJ NOUN ADJ PUNCT NOUN NOUN NOUN NOUN ADJ PUNCT ADJ NOUN PROPN PUNCT ADJ NOUN PUNCT PROPN VERB NOUN ADJ VERB ADJ PUNCT ADJ NOUN VERB NUM VERB NOUN NOUN PART VERB NOUN PUNCT ADJ PROPN ADJ PUNCT ADJ NOUN PROPN PUNCT
+1030,Horrible,"mediocre product service . phone work 10 day start heat Sharing . battery take 3 fully charge time discharge . worried explode hand . 
+ 
+  help flipkart seller past 10 day . ask product . took long trip service center find software problem , phone restore problem persist . heating normal overhearing message come . phone feel fresh oven . simply mercy apple visit . 
+ 
+  replacement money . 
+ 
+  product , clear dinner 6 . product hope unnecessary change like light headphone fuel apple arrogance . carry different set phone , sac .",1,Certified Buyer,"Nov, 2016",21,64,READ MORE,85,170,14,0,,0,,0,0.25,91,PROPN PROPN PROPN PUNCT NOUN NOUN NUM NOUN VERB NOUN NOUN PUNCT NOUN VERB NUM ADV NOUN NOUN NOUN PUNCT ADJ ADJ NOUN PUNCT SPACE VERB VERB NOUN ADP NUM NOUN PUNCT VERB NOUN PUNCT VERB ADJ NOUN NOUN NOUN VERB NOUN NOUN PUNCT NOUN NOUN NOUN VERB PUNCT VERB ADJ NOUN NOUN NOUN PUNCT NOUN VERB ADJ NOUN PUNCT ADV NOUN NOUN NOUN PUNCT SPACE NOUN NOUN PUNCT SPACE NOUN PUNCT ADJ NOUN NUM PUNCT NOUN VERB ADJ NOUN SCONJ ADJ NOUN NOUN NOUN NOUN PUNCT VERB ADJ NOUN NOUN PUNCT NOUN PUNCT
+1009,Awesome phone & faster delivery.Flipkart Rocks,"Flipkart fulfill wish deliver new shone 7 launch day . thank Flipkart team well coordination show deliver phone time launch . queue Apple Tore buying 1 get phone faster store . 
+ 
+  North buy shone 7 . phone have great feature . 
+ 
+ 
+  thank",5,Certified Buyer,"Oct, 2016",6,9,,15,79,6,0,,0,,0,0.4,42,PROPN NOUN VERB VERB ADJ NOUN NUM NOUN NOUN PUNCT VERB PROPN NOUN INTJ NOUN NOUN VERB NOUN NOUN NOUN PUNCT NOUN PROPN PROPN VERB NUM VERB NOUN ADJ NOUN PUNCT SPACE NOUN VERB NOUN NUM PUNCT NOUN AUX ADJ NOUN PUNCT SPACE VERB
+1010,Happy and satisfied,"upgrade shone 6 7 . know lot people agree significant upgrade term look hardware . let tell , invoke . moment hold device matt black , feel different . fan Apple product late favourite . camera significantly well . 
+ 
+  thank Flipkart timely delivery .",5,Certified Buyer,"Oct, 2016",11,23,,34,74,7,0,,0,,0,0.32,44,PROPN VERB NUM NUM PUNCT VERB NOUN NOUN VERB ADJ PROPN NOUN NOUN NOUN PUNCT VERB VERB PUNCT VERB PUNCT NOUN VERB NOUN PROPN ADJ PUNCT VERB ADJ PUNCT NOUN PROPN NOUN ADV ADJ PUNCT PROPN ADV ADV PUNCT SPACE VERB PROPN ADJ NOUN PUNCT
+1011,Wonderful,"buy phone September 2017 Diwali Pale cost ask . 4 month happy phone performance . 32 gb memory good heavy user . 
+  give build option let explore amazing cool ape tune . 
+  test water resistant phone performance good .",4,Certified Buyer,"Jan, 2018",13,29,,42,70,5,0,,0,,0,0.31,39,VERB NOUN PROPN NUM PROPN PROPN NOUN NOUN PUNCT NUM NOUN ADJ NOUN NOUN PUNCT NUM PROPN NOUN ADJ ADJ NOUN PUNCT SPACE VERB NOUN NOUN VERB VERB ADJ ADJ NOUN NOUN PUNCT SPACE NOUN NOUN ADJ NOUN NOUN ADJ PUNCT
+1012,Super!,phone .....,5,Certified Buyer,5 months ago,5,5,,10,2,1,0,,0,,0,0.5,2,NOUN PUNCT
+1031,Flipkart is very good way to buy any products,"Flipkart late 
+ 
+  Astir High Advocate , Surgeon , finally get awaited shone 7 , phone year flipkart amazing . 
+ 
+  thankful flipkart understanding customer thankful flipkart excellent service . 
+ 
+  Flipkart deliver shone 7 07 - 10 - 2016 720 pm , Apple conduct India launch . Flipkart word genuine product . 
+ 
+  shine 7 look awesome phone excellent camera . new home button fast previous iphone sound quality good   battery satisfactory . 
+ 
+  heartily recommend buy flipkart . 
+ 
+  thankful flipkart .......",5,Certified Buyer,"Oct, 2016",10,24,READ MORE,34,125,9,0,,0,,0,0.29,78,PROPN ADV SPACE PROPN PROPN PROPN PUNCT PROPN PUNCT ADV AUX VERB NOUN NUM PUNCT NOUN NOUN NOUN ADJ PUNCT SPACE ADJ ADJ NOUN NOUN ADJ PROPN ADJ NOUN PUNCT SPACE PROPN VERB VERB NUM NUM PUNCT NUM PUNCT NUM NUM NOUN PUNCT PROPN VERB PROPN NOUN PUNCT ADJ NOUN ADJ NOUN PUNCT SPACE VERB NUM VERB ADJ NOUN ADJ NOUN PUNCT ADJ NOUN NOUN ADJ ADJ PROPN NOUN NOUN ADJ SPACE NOUN ADJ PUNCT SPACE ADV VERB VERB NOUN PUNCT SPACE ADJ NOUN PUNCT
+1023,Flipkart delivery service was a pain... The phone is great,"Flipkart take good 16 day , 55 sweet numerous call deliver order . get 2 week later launch preordere . take 3 star delivery service . 
+ 
+  come phone , good experience far . get turn .",2,Certified Buyer,"Oct, 2016",10,21,,31,54,5,0,,0,,0,0.32,36,PROPN VERB ADJ NUM NOUN PUNCT NUM ADJ ADJ NOUN VERB NOUN PUNCT AUX NUM NOUN ADV NOUN VERB PUNCT VERB NUM NOUN NOUN NOUN PUNCT SPACE VERB NOUN PUNCT ADJ NOUN ADV PUNCT AUX NOUN PUNCT
+1024,Super!,"apple product , r good smartphone . 
+  performance expect .. 
+  camera good , 
+  battery - depend use ... bad compare andro phone 
+  atla love phone ... thank Flipkart valuable product",5,Certified Buyer,"Oct, 2018",12,28,,40,42,2,0,,0,,0,0.3,30,PROPN NOUN PUNCT DET ADJ NOUN PUNCT SPACE NOUN VERB PUNCT SPACE PROPN PROPN PUNCT SPACE NOUN PUNCT NOUN NOUN PUNCT ADJ VERB NOUN NOUN SPACE PROPN PROPN NOUN PUNCT VERB PROPN ADJ NOUN
+1025,Thanks to Flipkart,"awesome product - usual Apple . have round jack point irritant . 
+ 
+  hat Flipkart- get phone 7.15 pm th oct . wonder people quote get .",5,Certified Buyer,"Oct, 2016",6,10,,16,39,3,0,,0,,0,0.38,26,ADJ NOUN PUNCT ADJ PROPN PUNCT AUX PROPN PROPN PROPN ADJ PUNCT SPACE NOUN NOUN VERB NOUN NUM NOUN X PROPN PROPN NOUN NOUN INTJ VERB PUNCT
+1026,Really Nice,"great phone one able difference . 
+  delivery time 
+  note- u new phone think buying 7 save ask .",4,Certified Buyer,"Jan, 2017",7,13,,20,44,2,0,,0,,0,0.35,18,ADJ NOUN NUM ADJ NOUN PUNCT SPACE NOUN NOUN SPACE ADV PROPN ADJ NOUN VERB VERB NUM NOUN NOUN PUNCT
+1027,Upgrade from iPhone 5S,"camera improve leap bound , probably dslr quality term functionality . bone processing power superb . 50 different ape simultaneously , phone hang drain battery . 
+ 
+  Met Black upgrade . look feel class . 
+ 
+  finally Flipkart good delivery update .",5,Certified Buyer,"Mar, 2017",5,7,,12,63,6,0,,0,,0,0.42,40,PROPN VERB PROPN VERB PUNCT ADV ADJ NOUN NOUN NOUN PUNCT NOUN NOUN NOUN PROPN PUNCT NUM ADJ NOUN ADV PUNCT NOUN VERB PROPN NOUN PUNCT SPACE PROPN PROPN NOUN PUNCT VERB VERB NOUN PUNCT SPACE ADV PROPN ADJ NOUN NOUN PUNCT
+1028,Fabulous!,"Gros Great Build , great Camerawish unload picture , Great Studio . septic work . 
+ 
+  son headphone jack , carry wired headphone use Sac shone   . case phone perfect fit cover speaker hole , not buy case iPhone6 assume fit .",5,Certified Buyer,"Oct, 2016",8,17,,25,60,4,0,,0,,0,0.32,41,PROPN PROPN PROPN PUNCT ADJ ADJ NOUN NOUN PUNCT PROPN PROPN PUNCT NOUN NOUN PUNCT SPACE PROPN PROPN PROPN PUNCT VERB ADJ NOUN VERB PROPN NOUN SPACE PUNCT NOUN NOUN ADJ ADJ NOUN NOUN NOUN PUNCT PART VERB NOUN ADP PROPN PROPN PUNCT
+1029,Nice Work,"packed orchestrate Flipkart . phone 7 , excellent",1,Certified Buyer,"Oct, 2016",20,59,,79,12,3,0,,0,,0,0.25,8,VERB VERB PROPN PUNCT NOUN NUM PUNCT ADJ
+1035,Defected handset,"order shone 7 jet black 128 receive May st shone explore apple product 2 day find defect silent button . not know loose phone switch silent ring mode automatically . finally decide exchange product dint find option replaceexchange . spend ask INR get defeat hand not know . 
+ 
+  hope read flipkart help way invest considerably huge convenience mobile service center . want service center get old phone repair .",1,Certified Buyer,"May, 2017",8,19,READ MORE,27,146,7,0,,0,,0,0.3,69,NOUN VERB NUM NOUN NOUN NUM VERB PROPN PROPN NOUN VERB NOUN NOUN NUM NOUN NOUN ADJ ADJ NOUN PUNCT PART VERB ADJ NOUN VERB ADJ NOUN NOUN ADV PUNCT ADV VERB NOUN NOUN NOUN VERB NOUN NOUN PUNCT VERB VERB PROPN AUX NOUN NOUN PART VERB PUNCT SPACE NOUN VERB PROPN PROPN PROPN VERB ADV ADJ NOUN NOUN NOUN PROPN PUNCT VERB PROPN NOUN VERB ADJ NOUN NOUN PUNCT
+1046,Wonderful,"review product 
+ 
+  shone 5 earlier phone amazing . speed performance . Camera good quality image come stabilized crisp . black color design curve phone awesome . 
+ 
+  secondly let talk Flipkart delivery . want end Flipkart introduce transparent delivery system save customer nightmare like situation specifically big sale . product get delay week body able clear picture delay go deliver . hope time Flipkart go manage delivery efficiently . 
+ 
+  thank Flipkart wonderful phone .",4,Certified Buyer,"Oct, 2016",4,7,READ MORE,11,142,10,0,,0,,0,0.36,73,PROPN NOUN SPACE NOUN NUM ADJ NOUN ADJ PUNCT NOUN NOUN PUNCT NOUN ADJ NOUN NOUN VERB VERB ADV PUNCT ADJ NOUN NOUN NOUN NOUN NOUN PUNCT SPACE ADV VERB VERB PROPN NOUN PUNCT VERB NOUN PROPN VERB ADJ NOUN NOUN VERB NOUN NOUN SCONJ NOUN ADV ADJ NOUN PUNCT NOUN VERB NOUN NOUN NOUN ADJ ADJ NOUN NOUN VERB VERB PUNCT NOUN NOUN PROPN VERB VERB NOUN ADV PUNCT SPACE VERB PROPN ADJ NOUN PUNCT
+1032,outstanding,"world , word explain review . Apple rock . W.S. Retailer outstanding service",5,Certified Buyer,"Oct, 2016",4,6,,10,23,4,0,,0,,0,0.4,13,NOUN PUNCT NOUN VERB NOUN PUNCT PROPN NOUN PUNCT PROPN PROPN ADJ NOUN
+1033,Fair,review use,3,Certified Buyer,"Oct, 2018",12,31,,43,5,1,0,,0,,0,0.28,2,NOUN NOUN
+1034,Awesome Product,"awesome product awesome service 
+ 
+  thank 
+  Samsad",5,Certified Buyer,"Oct, 2016",5,9,,14,8,1,0,,0,,0,0.36,6,ADJ NOUN PROPN NOUN SPACE VERB SPACE ADJ
+1047,"Misleading ads, All hype not worth it","see phone come tireless earphone . earpod teach navvy person , see earpod product description think earpod careless earphone . receive delivery surprise normal earphone , earphone connect phone directly require connect cord . carry additional dingy cable . , packing accessory louse - didn expect apple product price tag . 
+ 
+  problem sound volume certain . 
+ 
+  hope worth . think buy phone well value price .",1,Certified Buyer,"Oct, 2016",29,108,READ MORE,137,123,8,0,,0,,0,0.21,66,VERB NOUN VERB NOUN NOUN PUNCT PROPN VERB ADJ NOUN PUNCT VERB PROPN NOUN NOUN VERB PROPN ADJ NOUN PUNCT VERB NOUN NOUN ADJ NOUN PUNCT NOUN VERB NOUN ADV VERB ADJ NOUN PUNCT VERB ADJ NOUN NOUN PUNCT PUNCT VERB NOUN NOUN PUNCT PROPN VERB NOUN NOUN NOUN NOUN PUNCT SPACE NOUN VERB NOUN ADJ PUNCT SPACE NOUN ADJ PUNCT VERB VERB NOUN NOUN NOUN NOUN PUNCT
+1079,Brilliant,"great phone get ecosystem andro will not disappoint , phone like old nikita feature phone good manner let want , open ape spilt second , camera good 2017 . fix good camera , great battery life uphill give 8 - 9 screen usage low power mode plus budget permit feel weird galaxy note 4 habituate screen size . recommend midrange andro phone good world . charge provide slow camp throw garage buy ask quick charge phone support qualcomm quick charge 2.0 charge fast 0 - 80 % 50 mind get heat normal . thing annoying find 3.5 mm headphone adapt need plug headphnone not use stock headphone great . face performance issue 2 month performance like new get . 
+  P.s - andro user use note 4 phone 7",5,Certified Buyer,"Jul, 2017",5,8,READ MORE,13,261,3,0,,0,,0,0.38,128,ADJ NOUN VERB NOUN NOUN VERB PART VERB PUNCT NOUN SCONJ ADJ PROPN NOUN NOUN ADJ NOUN VERB VERB PUNCT VERB NOUN NOUN ADV PUNCT NOUN ADJ NUM PUNCT VERB ADJ NOUN PUNCT ADJ NOUN NOUN ADV VERB NUM SYM NUM NOUN NOUN ADJ NOUN NOUN CCONJ NOUN NOUN VERB ADJ NOUN VERB NUM NOUN NOUN NOUN PUNCT PROPN PROPN PROPN NOUN ADJ PROPN PUNCT VERB VERB ADJ NOUN NOUN NOUN NOUN VERB ADJ NOUN NOUN NOUN PROPN PROPN NOUN NUM NOUN ADJ NUM SYM NUM NOUN NUM NOUN VERB NOUN ADJ PUNCT NOUN ADJ VERB NUM NUM NOUN NOUN VERB NOUN NOUN PART VERB NOUN NOUN ADJ PUNCT NOUN NOUN NOUN NUM NOUN NOUN SCONJ PROPN NOUN PUNCT SPACE PROPN PUNCT PROPN NOUN NOUN NOUN NUM NOUN NUM
+1086,"Apple iPhone 7, 128GB Review","got new shone 7 deliver Flipkart , 24 hour place order . 16 GB shine , clearly 7 huge leap . big screen look feel brilliant , new home button lightne quick , camera short amazing course , water dust resistance make 7 well bet constant traveller like . force touch intuitiveness fantastic . speed functionality 7 certainly productivity boost",5,Certified Buyer,"Nov, 2016",4,10,READ MORE,14,94,6,0,,0,,0,0.29,60,VERB ADJ NOUN NUM VERB PROPN PUNCT NUM NOUN NOUN NOUN PUNCT NUM PROPN NOUN PUNCT ADV NUM ADJ NOUN PUNCT ADJ NOUN VERB VERB ADJ PUNCT ADJ NOUN NOUN NOUN ADJ PUNCT NOUN ADJ ADJ NOUN PUNCT NOUN NOUN NOUN VERB NUM ADV VERB ADJ NOUN SCONJ PUNCT NOUN NOUN NOUN PROPN PUNCT NOUN NOUN NUM ADV NOUN NOUN
+1101,AFTER 1Yr OF USE....,"FANTASTIC PHONE 
+  get dream phone day order prove nightmare . 
+  Battery go bu 10 % simply work 20 minute . 
+  return option work say visit apple support . 
+  replace product piece model slight battery crisis . 
+  Shone performance fantastic imagination . 
+  edit review add point 1 use 
+  1.great camera , specially primary one.good low light performance . 
+  think camera well 30 k chinese band . 
+  2.battery ok ok type.it day air user.you need power bank travel . 
+  3.fearless user interface great touch 
+  4.fattest phone 
+  5.timely software update 
+  6.very slim class look 
+  7.great build quality , need worry slip hand.it ok time . 
+  thing apple need introduce fast charging option take 1 hour n 40 minute charge fully . 
+  ... apple fan .....",4,Certified Buyer,"Dec, 2018",5,10,READ MORE,15,183,11,0,,0,,0,0.33,122,PROPN PROPN SPACE VERB NOUN NOUN NOUN NOUN VERB NOUN PUNCT SPACE NOUN VERB ADP NUM NOUN ADV VERB NUM NOUN PUNCT SPACE NOUN NOUN NOUN VERB VERB NOUN NOUN PUNCT SPACE VERB NOUN NOUN NOUN ADJ NOUN NOUN PUNCT SPACE NOUN NOUN ADJ NOUN PUNCT SPACE NOUN NOUN VERB NOUN NUM NOUN SPACE NUM NOUN PUNCT ADV ADJ PROPN ADJ ADJ NOUN PUNCT SPACE VERB PROPN INTJ NUM NOUN ADJ NOUN PUNCT SPACE NUM NOUN INTJ X NOUN NOUN PRON VERB NOUN NOUN NOUN PUNCT SPACE NUM NOUN NOUN ADJ NOUN SPACE NUM NOUN SPACE NUM NOUN NOUN SPACE NUM ADJ NOUN NOUN SPACE NUM NOUN NOUN PUNCT VERB NOUN NOUN X ADJ NOUN PUNCT SPACE NOUN PROPN VERB VERB ADJ NOUN NOUN VERB NUM NOUN ADV NUM NOUN NOUN ADV PUNCT SPACE PUNCT PROPN PROPN PUNCT
+1044,Great Phone at Great Price,"Great shone awesome user interface 
+  beat phone 
+  great price simply exchange old Samsung Grand phone sell open market receive maximum Flipkart exchange 
+  Flipkart shopping experience superb 
+  Genuine Product unbearable price",5,Certified Buyer,"Jan, 2017",5,10,,15,55,1,0,,0,,0,0.33,30,ADJ NOUN ADJ NOUN NOUN SPACE ADJ NOUN SPACE ADJ NOUN ADV VERB ADJ PROPN PROPN NOUN VERB ADJ NOUN VERB ADJ PROPN NOUN SPACE PROPN NOUN NOUN NOUN SPACE ADJ PROPN ADJ NOUN
+1045,Amazing product,product amazing upgrade shone 6 shone 7 wonderful product nice build quality feature buy product get cheap rate Flipkart ..,5,Certified Buyer,"Dec, 2017",3,7,,10,43,1,0,,0,,0,0.3,20,NOUN ADJ NOUN VERB NUM VERB NUM ADJ NOUN ADJ VERB NOUN NOUN VERB NOUN VERB ADJ NOUN PROPN PUNCT
+1103,Decent phone. Recommend going for 7 plus or 8 plus,"shone experience good , courtesy Flipkart . phone come mention description , damage taper . get exchange plus Is.31000 big billion day include semi offer etc.which good price . 
+  product , 
+  Gros - 
+  1 . twitch andro shone easy . whatsapp goose cloud find way previous chat goose loud . 
+  2 . shot andro g drive , need download phone unnecessary space . 
+  3 . Camera amazing build effect . 
+  4 . badly portrait mode . download pp . 
+  5 . amazing , obviously consider apple product . 
+  6 . multitasking twitch ape fearless 
+  Sons - 
+  1 . door battery life . last hour moderate use . 
+  2 . fast charging , use adapt . charge 0 100 2 hour . 40 - 50 % charge half hour . 
+  3 . small screen . 4.7 inch small compare 5 5.5 inch provide well experience 
+  4 . need protective cover screen doesn break , change look . buy spite 
+  5 . headphone jack , matter .",5,Certified Buyer,"Jan, 2018",9,35,READ MORE,44,229,29,0,,0,,0,0.2,165,NOUN NOUN ADJ PUNCT VERB PROPN PUNCT NOUN VERB NOUN NOUN PUNCT NOUN NOUN PUNCT AUX NOUN CCONJ PROPN ADJ NUM NOUN VERB ADJ VERB PROPN ADJ NOUN PUNCT SPACE NOUN PUNCT SPACE PROPN PUNCT SPACE NUM PUNCT NOUN PROPN NOUN ADV PUNCT ADJ NOUN NOUN VERB NOUN ADJ NOUN NOUN ADJ PUNCT SPACE NUM PUNCT PROPN PROPN PROPN NOUN PUNCT VERB NOUN NOUN ADJ NOUN PUNCT SPACE NUM PUNCT NOUN ADJ NOUN NOUN PUNCT SPACE NUM PUNCT ADV NOUN NOUN PUNCT PROPN PROPN PUNCT SPACE NUM PUNCT ADJ PUNCT ADV VERB NOUN NOUN PUNCT SPACE NUM PUNCT NOUN NOUN NOUN NOUN SPACE NOUN PUNCT SPACE NUM PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN ADJ NOUN PUNCT SPACE NUM PUNCT ADJ NOUN PUNCT VERB NOUN PUNCT NOUN NUM NUM NUM NOUN PUNCT NUM SYM NUM NOUN NOUN ADJ NOUN PUNCT SPACE NUM PUNCT ADJ NOUN PUNCT NUM NOUN ADJ VERB NUM NUM NOUN VERB ADJ NOUN SPACE NUM PUNCT VERB ADJ NOUN NOUN PROPN PROPN PUNCT NOUN NOUN PUNCT VERB PROPN SPACE NUM PUNCT PROPN PROPN PUNCT PROPN PUNCT
+1209,Terrific purchase,"Gros 
+  1 elegant design 
+  2 rise gold simply superb 
+  3 sterno speaker -- loud shone 
+  quality 1010 
+  5 Signal reception excellent 
+  6 Battery life need test . hour . battery drain slow . sure battery life good . 
+  performance wise beast . impressed 
+  8 memory start 32 gb high relief 
+  water drooping --- dint test 
+  10 Camera 910 --- s Google fix well camera . test soon . 
+ 
+  son 
+  1 miss home button . fingerprint senior embed display will not natural feeling home button 
+  2 lack audit jack . 
+ 
+  lastly want thank flipkart deliver phone th October 2016 . thank lot . overall happy shone 7 .",5,Certified Buyer,"Oct, 2016",3,14,READ MORE,17,152,13,0,,0,,0,0.18,107,PROPN SPACE NUM ADJ NOUN SPACE NUM VERB NOUN ADV PROPN SPACE NUM NOUN NOUN PUNCT ADJ NOUN SPACE NOUN NUM SPACE NUM PROPN NOUN ADJ SPACE NUM PROPN NOUN NOUN NOUN PUNCT NOUN PUNCT NOUN NOUN ADJ PUNCT ADJ NOUN NOUN ADJ PUNCT SPACE NOUN ADJ NOUN PUNCT ADJ SPACE NUM NOUN NOUN NUM PROPN ADJ NOUN SPACE NOUN NOUN PUNCT NOUN NOUN SPACE NUM PROPN NUM PUNCT PART PROPN NOUN ADV NOUN PUNCT NOUN ADV PUNCT SPACE PROPN SPACE NUM PROPN NOUN NOUN PUNCT PROPN ADJ NOUN NOUN VERB PART ADJ NOUN NOUN NOUN SPACE NUM NOUN NOUN NOUN PUNCT SPACE ADV VERB VERB PROPN VERB NOUN X PROPN NUM PUNCT VERB NOUN PUNCT ADJ ADJ NOUN NUM PUNCT
+1228,Flipkart Rocks!!!,".... crime member use extensively end buy phone Flipkart . great option Flipkart ... 
+  Exchange Rates   nation check result value have type IMEI .. 
+  customised Credit Hard emi option 
+  offer domestic card 
+  commit deliver   package delivery TAT 
+  thank Flipkart good experience 
+ 
+  upgrade shone 6- 
+ 
+  lovely device 
+ 
+   yes 
+  Camera 
+  battery 
+  d Touch 
+  Letter 10 Ship - speed efficiency 
+  Waterproof 
+  Sterno Wounds 
+  letter LTE Speed 
+  Cap tic Button 
+  letter color",5,Certified Buyer,"Apr, 2017",2,8,READ MORE,10,105,4,0,,0,,0,0.2,68,PUNCT NOUN NOUN NOUN ADV VERB VERB NOUN PROPN PUNCT ADJ NOUN PROPN PUNCT SPACE PROPN PROPN SPACE NOUN NOUN NOUN NOUN AUX NOUN PROPN PUNCT SPACE ADJ PROPN PROPN NOUN NOUN SPACE VERB ADJ NOUN SPACE NOUN VERB SPACE NOUN NOUN PROPN SPACE VERB PROPN ADJ NOUN SPACE PROPN NOUN NUM SPACE ADJ NOUN SPACE INTJ SPACE NOUN SPACE NOUN SPACE PROPN PROPN SPACE NOUN NUM NOUN PUNCT NOUN NOUN SPACE ADJ SPACE PROPN NOUN SPACE NOUN NOUN PROPN SPACE PROPN ADJ PROPN SPACE NOUN NOUN
+1231,Highly recommended,"phone beast . phone super awesome . sleek photo clarity superb . Headset rock . battery last nearly half day . andro year definitely stable , include ape . touch senior tactic engine tremendous fast responsive . Camera stun , nexus plus far , definitely well phone term quality . happy purchase",5,Certified Buyer,"Oct, 2016",3,17,READ MORE,20,92,8,0,,0,,0,0.15,52,NOUN NOUN PUNCT NOUN ADV ADV PUNCT ADJ NOUN NOUN NOUN PUNCT PROPN NOUN PUNCT NOUN ADJ ADV ADJ NOUN PUNCT PROPN NOUN ADV ADJ PUNCT VERB NOUN PUNCT VERB ADJ ADJ NOUN ADJ ADJ NOUN PUNCT NOUN NOUN PUNCT NOUN CCONJ ADV PUNCT ADV ADV NOUN NOUN NOUN PUNCT ADJ NOUN
+1260,Apple Nails It Again!,"matter people , shone 7 good phone buy market . 4.7 inch display beautiful beat 1080p display market . battery life amazing 24 hour use . major improvement camera . improve significantly capture stunning photo . absence headphone jack doesn bother use bluetooth headphone need use include lighting ear pad . planning buy phone trainer . phone fantastic experience kind . 
+  delivery Flipkart outstanding . launch 7 pm receive product 825 pm , ask .",5,Certified Buyer,"Oct, 2016",1,9,READ MORE,10,151,10,0,,0,,0,0.1,75,NOUN NOUN PUNCT VERB NUM ADJ NOUN NOUN NOUN PUNCT NUM NOUN NOUN ADJ NOUN NUM NOUN NOUN PUNCT NOUN NOUN VERB NUM NOUN NOUN PUNCT ADJ NOUN NOUN PUNCT VERB ADV VERB ADJ NOUN PUNCT VERB PROPN PROPN PROPN VERB VERB ADJ NOUN NOUN NOUN VERB NOUN NOUN NOUN PUNCT NOUN VERB NOUN NOUN PUNCT NOUN ADJ NOUN NOUN PUNCT SPACE NOUN PROPN ADJ PUNCT NOUN NUM NOUN VERB NOUN NUM NOUN PUNCT VERB PUNCT
+1074,The best iPhone ever!,faulty piece hiss sound receive get replace apple care .,4,Certified Buyer,"Oct, 2016",10,28,,38,14,1,0,,0,,0,0.26,10,ADJ NOUN PROPN NOUN VERB VERB NOUN NOUN NOUN PUNCT
+1075,iphone 7,"m extinction shine problem create . 
+  ringtone key work 
+  purchase insurance 4000 phone new replace",1,Certified Buyer,"Jan, 2017",15,44,,59,32,2,0,,0,,0,0.25,15,X PROPN PROPN NOUN VERB PUNCT SPACE VERB PROPN NOUN SPACE VERB NOUN NUM NOUN ADJ NOUN
+1076,Worth every penny,phone superb awesome product apple buy animal apple good trust ask   not think buy ...,5,Certified Buyer,6 months ago,18,63,,81,25,1,0,,0,,0,0.22,15,NOUN PROPN ADJ NOUN NOUN VERB NOUN PROPN ADJ NOUN NOUN SPACE PART VERB VERB PUNCT
+1077,Useless product,"experience bad .. purchase phone , 4 day come problem example- hang , danser , colour carry . purchase phone throw filpcard . complete filpcad customer care , bad response receive hear ....",1,Certified Buyer,"May, 2017",7,18,,25,45,4,0,,0,,0,0.28,33,NOUN ADJ PUNCT NOUN NOUN PUNCT NUM NOUN VERB NOUN PROPN PROPN PUNCT NOUN PUNCT PROPN PROPN PUNCT VERB NOUN NOUN NOUN PUNCT ADJ PROPN NOUN NOUN PUNCT ADJ NOUN VERB VERB PUNCT
+1078,Expected a better product,"shone awesome doubt ... 
+ 
+  Flipkart packing pathetic . deliver time product dusty . old . , phone box seal . sure come seal store .",2,Certified Buyer,"Dec, 2018",5,11,,16,39,5,0,,0,,0,0.31,25,NOUN ADJ NOUN PUNCT SPACE PROPN VERB ADJ PUNCT VERB NOUN NOUN ADJ PUNCT ADJ PROPN PUNCT NOUN NOUN NOUN PUNCT INTJ VERB NOUN NOUN PUNCT
+1080,It is hanging..,"not buy , phone hang .",1,Certified Buyer,"Feb, 2017",4,8,,12,7,1,0,,0,,0,0.33,6,PART VERB PUNCT NOUN NOUN PUNCT
+1081,Perfect product!,"apple device . honestly way well andro phone previously.a buy u want speed , awesome world class security.the delivery fast get 7000 cashback ... thank u flipkart",5,Certified Buyer,"Oct, 2016",4,8,,12,41,1,0,,0,,0,0.33,27,PROPN NOUN PUNCT ADV NOUN ADV PROPN NOUN NOUN VERB PRON NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN ADV VERB NUM NOUN PUNCT VERB PRON PROPN
+1085,Simply awesome!,"receive Patte Black 128 GB version evening th . couple month usage experience far incredible . have 16 GB user past 4 year , hardware upgrade screen , raw speed storage need . 
+ 
+  sleepless handle get temper glass , Otterbox Achieved Case , extra Apple Lightning Table Elkins War go Cradle complete pack .",5,Certified Buyer,"Dec, 2016",4,9,,13,85,4,0,,0,,0,0.31,54,VERB PROPN PROPN NUM PROPN NOUN NOUN X PUNCT NOUN NOUN NOUN NOUN ADV ADJ PUNCT AUX NUM PROPN NOUN ADV NUM NOUN PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN NOUN VERB PUNCT SPACE NOUN VERB AUX NOUN NOUN PUNCT PROPN PROPN PROPN PUNCT ADJ PROPN PROPN PROPN PROPN PROPN VERB PROPN ADJ NOUN PUNCT
+1087,Amazing Phone,wonderful phone . andro user previously IOS fall love moment get phone . lip service amazing . provide phone 1 phone launch .,5,Certified Buyer,"Oct, 2016",5,13,,18,44,4,0,,0,,0,0.28,23,ADJ NOUN PUNCT NOUN NOUN ADV PROPN VERB NOUN NOUN VERB NOUN PUNCT NOUN NOUN ADJ PUNCT VERB NOUN NUM NOUN NOUN PUNCT
+1093,Decent product,"order 39999 SuperComNet 
+  product delivery tomorrow 
+  Head negative review seller 
+  see FlipKart dint help people receive damage face product 
+  cancel buy seller 
+ 
+  update 
+  receive today , perfect phone , sorry doubt u flipkart 
+ 
+  update 
+  tempered phone send Apple deny serving . Ve simply lose 40000 
+  buy Flipkart .",1,Certified Buyer,"May, 2017",7,23,,30,79,4,1,,0,,1,0.23,48,NOUN NUM PROPN SPACE NOUN NOUN NOUN SPACE VERB ADJ NOUN NOUN SPACE VERB PROPN NOUN NOUN NOUN VERB NOUN NOUN NOUN SPACE PROPN NOUN NOUN SPACE NOUN SPACE VERB NOUN PUNCT ADJ NOUN PUNCT ADJ NOUN INTJ PROPN SPACE NOUN SPACE ADJ NOUN VERB PROPN NOUN VERB PUNCT PROPN ADV VERB NUM SPACE VERB PROPN PUNCT
+1102,Upgraded from the iPhone 6 to iphone 7,"firstly flipkart good job deliver phone day . overall shone 7 nice upgrade shone 6 get touch , photo , well camera , aa10 processor , Sterno speaker water proof . 
+  work fast , good battery life , excellent touch experience tactic engine . 
+  normal usage phone get heating camera internet browsing   chat phone get heat .",5,Certified Buyer,"Jan, 2017",6,15,,21,72,4,0,,0,,0,0.29,57,ADV VERB ADJ NOUN VERB NOUN NOUN PUNCT ADJ VERB NUM ADJ NOUN VERB NUM VERB NOUN PUNCT NOUN PUNCT INTJ NOUN PUNCT NOUN NOUN PUNCT PROPN NOUN NOUN NOUN PUNCT SPACE NOUN ADV PUNCT ADJ NOUN NOUN PUNCT ADJ NOUN NOUN NOUN NOUN PUNCT SPACE ADJ NOUN NOUN VERB VERB NOUN NOUN NOUN SPACE ADJ NOUN VERB NOUN PUNCT
+1104,For all Android lovers,andro user custom room debugging till date get phone . row .. take work easy rich use co get lot work money waste time deal phone .,5,Certified Buyer,"Jan, 2017",3,7,,10,58,2,0,,0,,0,0.3,27,PROPN PROPN PROPN NOUN VERB SCONJ NOUN VERB NOUN PUNCT INTJ PUNCT VERB NOUN ADJ ADJ NOUN VERB AUX NOUN NOUN NOUN NOUN NOUN VERB NOUN PUNCT
+1105,Must buy!,buy shone 7 fiancee October . feel happy lift new shone 7 lot advance feature haven open box . trust Apple product . lift phone November will write review,5,Certified Buyer,"Oct, 2016",3,8,,11,52,4,0,,0,,0,0.27,29,VERB NOUN NUM NOUN PROPN PUNCT VERB ADJ NOUN ADJ NOUN NUM NOUN NOUN NOUN VERB PROPN PROPN PUNCT NOUN PROPN NOUN PUNCT VERB NOUN PROPN VERB VERB NOUN
+1198,Worthless product.,"4 month get product m able use , card   . care 3 time m get product give , main issue network thing date software . use buy product suggest , better buy phone .",1,Certified Buyer,"Jan, 2017",8,38,,46,95,3,0,,0,,0,0.17,34,X NOUN AUX NOUN PROPN ADJ NOUN PUNCT NOUN SPACE PUNCT NOUN NUM NOUN PROPN AUX NOUN VERB PUNCT ADJ NOUN NOUN NOUN NOUN NOUN PUNCT NOUN NOUN NOUN VERB PUNCT ADJ VERB NOUN PUNCT
+1204,Value-for-money,nice phone price .... well,4,Certified Buyer,"Jan, 2019",4,17,,21,8,1,0,,0,,0,0.19,5,ADJ NOUN NOUN PUNCT INTJ
+1206,Not good,"order phone SupercomNet 
+  bill write shreyansh put.ltd . .Moreover Headphones charge have scratch . pay 44000rs buy brand new phone refurbished .shone good condition accessory . 
+  u send old accessory",1,Certified Buyer,"May, 2017",3,12,,15,61,5,2,,0,,0,0.2,30,NOUN NOUN PROPN SPACE PROPN VERB PROPN PROPN PUNCT PUNCT NOUN NOUN AUX NOUN PUNCT VERB NUM VERB NOUN ADJ NOUN VERB PUNCT ADJ NOUN NOUN PUNCT SPACE PRON VERB ADJ NOUN
+1207,I phone 7,"week phone get damage single drop . invest huge phone break single drop doesn make sense . request return flipkart , get response flipkart responsible technical badge . contact customer care . main concern want aware policy value purchase expensive telephone couldn resist single 2 foot drop .",1,Certified Buyer,"Jul, 2017",3,13,,16,89,5,0,,0,,0,0.19,48,NOUN NOUN VERB NOUN ADJ NOUN PUNCT VERB ADJ NOUN VERB ADJ NOUN NOUN VERB NOUN PUNCT VERB NOUN PROPN PUNCT AUX NOUN NOUN ADJ ADJ NOUN PUNCT NOUN NOUN NOUN PUNCT ADJ NOUN VERB ADJ NOUN NOUN NOUN ADJ NOUN PROPN VERB ADJ NUM NOUN NOUN PUNCT
+1229,Diwali ky rang Flipkart my sang - I phone 7,"awesome phone ... preordere phone get ask cash get phone deliver time ... thank Flipkart ... phone ... love ... 
+  phone 7 ... Touch screen like real ... 
+  camera quality good ... get 32gb price good deal . 
+  Happy Diwali Flipkart ...",5,Certified Buyer,"Oct, 2016",2,8,,10,63,4,0,,0,,0,0.2,42,ADJ NOUN PUNCT CCONJ NOUN VERB VERB NOUN VERB NOUN NOUN NOUN PUNCT VERB PROPN PUNCT NOUN PUNCT NOUN PUNCT SPACE NOUN NUM PUNCT NOUN NOUN SCONJ ADJ PUNCT SPACE NOUN NOUN NOUN PUNCT VERB NUM PROPN NOUN ADJ NOUN PUNCT SPACE ADJ PROPN PROPN PUNCT
+1230,iPhone 7 review,"shone 7 great device . law whatsoever . feel phone premium . IOS user love IOS 10 . 
+  camera quality excellent galaxy s camera favourite . price bit high pretty good device . apple device year , well buy new andro phone year . overall recommend shone 7 galaxy s edge good ask cheap .",5,Certified Buyer,"Oct, 2016",2,8,,10,90,8,0,,0,,0,0.2,55,NOUN NUM ADJ NOUN PUNCT NOUN ADV PUNCT VERB NOUN NOUN PUNCT PROPN NOUN NOUN PROPN NUM PUNCT SPACE NOUN NOUN NOUN PROPN PROPN PROPN PROPN PUNCT NOUN NOUN ADJ ADV ADJ NOUN PUNCT PROPN NOUN NOUN PUNCT INTJ VERB ADJ PROPN NOUN NOUN PUNCT ADJ NOUN NOUN NUM NOUN PROPN PROPN ADJ VERB ADJ PUNCT
+1259,Defective product !!,"receive defective product - phone face severe heating issue battery get drain 0 % matter 15 - 20 mind phone hot , capable cause burn . issue appear 2 day receive product",1,Certified Buyer,"May, 2017",1,9,,10,53,2,0,,0,,0,0.1,32,VERB ADJ NOUN PUNCT NOUN NOUN ADJ NOUN NOUN NOUN VERB VERB NUM NOUN NOUN NUM SYM NUM NOUN NOUN ADJ PUNCT ADJ NOUN NOUN PUNCT NOUN VERB NUM NOUN VERB NOUN
